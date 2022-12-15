@@ -1,0 +1,5 @@
+#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/de/horizon.tv.epg.xml.gz,https://epg.zhort.de/daily/rytecDE_SportMovies,https://iptv-org.github.io/epg/guides/de/hd-plus.de.epg.xml.gz"
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="13TH STREET (3)" group-title="Germany",13TH STREET (3)
+http://77.247.109.214:8008/a/willene/live/522635010.ts?n=1&b=5&vavoo_auth=eyJkY0ifQ==#User-Agent=VAVOO/2.6
+
+
