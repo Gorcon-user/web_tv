@@ -14,7 +14,7 @@ https://tv4.live/api/stream/4625@visitorweb.net/454252417/livetv.epg/kinowelt.tv
 https://tv4.live/api/stream/4625@visitorweb.net/454252417/livetv.epg/sky.1.de.m3u8
 #EXTINF:-1 tvg-id="sky.action.de" tvg-name="sky.action.de" tvg-type="live" group-title="Germany" tvg-logo="https://media.tv4.live/sky.action.de.png" group-title="Filme",Sky Action
 https://tv4.live/api/stream/4625@visitorweb.net/454252417/livetv.epg/sky.action.de.m3u8
-#EXTINF:-1 tvg-id="sky.atlantic.de" tvg-name="sky.atlantic.de" tvg-type="live" group-title="Germany" tvg-logo="https://media.tv4.live/sky.atlantic.de.png" group-title="Filme",Sky Atlantic
+#EXTINF:-1 tvg-id="sky.atlantic.de" tvg-name="sky.atlantic.de" tvg-type="live" group-title="Germany" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sky-atlantic.png" group-title="Filme",Sky Atlantic
 https://tv4.live/api/stream/4625@visitorweb.net/454252417/livetv.epg/sky.atlantic.de.m3u8
 #EXTINF:-1 tvg-id="sky.cinema.action.de" tvg-name="sky.cinema.action.de" tvg-type="live" group-title="Germany" tvg-logo="https://media.tv4.live/sky.cinema.action.de.png" group-title="Filme",Sky Cinema Action
 https://tv4.live/api/stream/4625@visitorweb.net/454252417/livetv.epg/sky.cinema.action.de.m3u8
