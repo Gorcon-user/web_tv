@@ -2,43 +2,43 @@
 #EXTINF:-1 tvg-id="13thStreet.de" tvg-name="13TH STREET (3)" group-title="Germany",13th Street HD
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://45.129.133.5:8008/a/willene/live/522635010.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-id="euronews.de" tvg-name="euronews.de" tvg-type="live" group-title="Germany" tvg-logo="https://media.tv4.live/euronews.de.png" group-title="Nachrichten",Euronews
+#EXTINF:-1 tvg-id="euronews.de" tvg-name="euronews.de" tvg-type="live" group-title="Nachrichten" tvg-logo="https://media.tv4.live/euronews.de.png",Euronews
 https://tv4.live/api/stream/4625@visitorweb.net/454252417/livetv.epg/euronews.de.m3u8
-#EXTINF:-1 tvg-id="eurosport.1.de" tvg-name="eurosport.1.de" tvg-type="live" group-title="Germany" tvg-logo="https://media.tv4.live/eurosport.1.de.png" group-title="Sport",Eurosport 1
+#EXTINF:-1 tvg-id="eurosport.1.de" tvg-name="eurosport.1.de" tvg-type="live" group-title="Sport" tvg-logo="https://media.tv4.live/eurosport.1.de.png",Eurosport 1
 https://tv4.live/api/stream/4625@visitorweb.net/454252417/livetv.epg/eurosport.1.de.m3u8
-#EXTINF:-1 tvg-id="eurosport.2.de" tvg-name="eurosport.2.de" tvg-type="live" group-title="Germany" tvg-logo="https://media.tv4.live/eurosport.2.de.png" group-title="Sport",Eurosport 2
+#EXTINF:-1 tvg-id="eurosport.2.de" tvg-name="eurosport.2.de" tvg-type="live" group-title="Sport" tvg-logo="https://media.tv4.live/eurosport.2.de.png",Eurosport 2
 https://tv4.live/api/stream/4625@visitorweb.net/454252417/livetv.epg/eurosport.2.de.m3u8
-#EXTINF:-1 tvg-id="eurosport2xtra.de" tvg-name="eurosport2xtra.de" tvg-type="live" group-title="Germany" tvg-logo="https://media.tv4.live/eurosport2xtra.de.png" group-title="Sport",Eurosport 2 xtra
+#EXTINF:-1 tvg-id="eurosport2xtra.de" tvg-name="eurosport2xtra.de" tvg-type="live" group-title="Sport" tvg-logo="https://media.tv4.live/eurosport2xtra.de.png",Eurosport 2 xtra
 https://tv4.live/api/stream/4625@visitorweb.net/454252417/livetv.epg/eurosport2xtra.de.m3u8
 
-#EXTINF:-1 tvg-id="kinowelt.tv.de" tvg-name="kinowelt.tv.de" tvg-type="live" group-title="Germany" tvg-logo="https://media.tv4.live/kinowelt.tv.de.png" group-title="Filme",Kinowelt TV
+#EXTINF:-1 tvg-id="kinowelt.tv.de" tvg-name="kinowelt.tv.de" tvg-type="live" tvg-logo="https://media.tv4.live/kinowelt.tv.de.png",Kinowelt TV
 https://tv4.live/api/stream/4625@visitorweb.net/454252417/livetv.epg/kinowelt.tv.de.m3u8
-#EXTINF:-1 tvg-id="sky.1.de" tvg-name="sky.1.de" tvg-type="live" group-title="Germany" tvg-logo="https://media.tv4.live/sky.1.de.png" group-title="Filme",Sky 1
+#EXTINF:-1 tvg-id="sky.1.de" tvg-name="sky.1.de" tvg-type="live" group-title="Sky" tvg-logo="https://media.tv4.live/sky.1.de.png",Sky 1
 https://tv4.live/api/stream/4625@visitorweb.net/454252417/livetv.epg/sky.1.de.m3u8
-#EXTINF:-1 tvg-id="sky.action.de" tvg-name="sky.action.de" tvg-type="live" group-title="Germany" tvg-logo="https://media.tv4.live/sky.action.de.png" group-title="Filme",Sky Action
+#EXTINF:-1 tvg-id="sky.action.de" tvg-name="sky.action.de" tvg-type="live" group-title="Sky" tvg-logo="https://media.tv4.live/sky.action.de.png",Sky Action
 https://tv4.live/api/stream/4625@visitorweb.net/454252417/livetv.epg/sky.action.de.m3u8
-#EXTINF:-1 tvg-id="sky.atlantic.de" tvg-name="sky.atlantic.de" tvg-type="live" group-title="Germany" tvg-logo="https://media.tv4.live/sky.atlantic.de.png" group-title="Filme",Sky Atlantic
+#EXTINF:-1 tvg-id="sky.atlantic.de" tvg-name="sky.atlantic.de" tvg-type="live" group-title="Sky" tvg-logo="https://media.tv4.live/sky.atlantic.de.png",Sky Atlantic
 https://tv4.live/api/stream/4625@visitorweb.net/454252417/livetv.epg/sky.atlantic.de.m3u8
-#EXTINF:-1 tvg-id="sky.cinema.action.de" tvg-name="sky.cinema.action.de" tvg-type="live" group-title="Germany" tvg-logo="https://media.tv4.live/sky.cinema.action.de.png" group-title="Filme",Sky Cinema Action
+#EXTINF:-1 tvg-id="sky.cinema.action.de" tvg-name="sky.cinema.action.de" tvg-type="live" group-title="Sky" tvg-logo="https://media.tv4.live/sky.cinema.action.de.png",Sky Cinema Action
 https://tv4.live/api/stream/4625@visitorweb.net/454252417/livetv.epg/sky.cinema.action.de.m3u8
-#EXTINF:-1 tvg-id="sky.cinema.best.of.de" tvg-name="sky.cinema.best.of.de" tvg-type="live" group-title="Germany" tvg-logo="https://media.tv4.live/sky.cinema.best.of.de.png" group-title="Filme",Sky Cinema Best Of
+#EXTINF:-1 tvg-id="sky.cinema.best.of.de" tvg-name="sky.cinema.best.of.de" tvg-type="live" group-title="Sky" tvg-logo="https://media.tv4.live/sky.cinema.best.of.de.png",Sky Cinema Best Of
 https://tv4.live/api/stream/4625@visitorweb.net/454252417/livetv.epg/sky.cinema.best.of.de.m3u8
-#EXTINF:-1 tvg-id="sky.cinema.classics.de" tvg-name="sky.cinema.classics.de" tvg-type="live" group-title="Germany" tvg-logo="https://media.tv4.live/sky.cinema.classics.de.png" group-title="Filme",Sky Cinema Classics
+#EXTINF:-1 tvg-id="sky.cinema.classics.de" tvg-name="sky.cinema.classics.de" tvg-type="live" group-title="Sky" tvg-logo="https://media.tv4.live/sky.cinema.classics.de.png",Sky Cinema Classics
 https://tv4.live/api/stream/4625@visitorweb.net/454252417/livetv.epg/sky.cinema.classics.de.m3u8
-#EXTINF:-1 tvg-id="sky.cinema.family.de" tvg-name="sky.cinema.family.de" tvg-type="live" group-title="Germany" tvg-logo="https://media.tv4.live/sky.cinema.family.de.png" group-title="Filme",Sky Cinema Family
+#EXTINF:-1 tvg-id="sky.cinema.family.de" tvg-name="sky.cinema.family.de" tvg-type="live" group-title="Sky" tvg-logo="https://media.tv4.live/sky.cinema.family.de.png",Sky Cinema Family
 https://tv4.live/api/stream/4625@visitorweb.net/454252417/livetv.epg/sky.cinema.family.de.m3u8
-#EXTINF:-1 tvg-id="sky.cinema.fun.de" tvg-name="sky.cinema.fun.de" tvg-type="live" group-title="Germany" tvg-logo="https://media.tv4.live/sky.cinema.fun.de.png" group-title="Filme",Sky Cinema Fun
+#EXTINF:-1 tvg-id="sky.cinema.fun.de" tvg-name="sky.cinema.fun.de" tvg-type="live" group-title="Sky" tvg-logo="https://media.tv4.live/sky.cinema.fun.de.png",Sky Cinema Fun
 https://tv4.live/api/stream/4625@visitorweb.net/454252417/livetv.epg/sky.cinema.fun.de.m3u8
-#EXTINF:-1 tvg-id="sky.cinema.premieren.de" tvg-name="sky.cinema.premieren.de" tvg-type="live" group-title="Germany" tvg-logo="https://media.tv4.live/sky.cinema.premieren.de.png" group-title="Filme",Sky Cinema Premieren
+#EXTINF:-1 tvg-id="sky.cinema.premieren.de" tvg-name="sky.cinema.premieren.de" tvg-type="live" group-title="Sky" tvg-logo="https://media.tv4.live/sky.cinema.premieren.de.png",Sky Cinema Premieren
 https://tv4.live/api/stream/4625@visitorweb.net/454252417/livetv.epg/sky.cinema.premieren.de.m3u8
-#EXTINF:-1 tvg-id="sky.cinema.premieren.24.de" tvg-name="sky.cinema.premieren.24.de" tvg-type="live" group-title="Germany" tvg-logo="https://media.tv4.live/sky.cinema.premieren.24.de.png" group-title="Filme",Sky Cinema Premieren +24
+#EXTINF:-1 tvg-id="sky.cinema.premieren.24.de" tvg-name="sky.cinema.premieren.24.de" tvg-type="live" group-title="Sky" tvg-logo="https://media.tv4.live/sky.cinema.premieren.24.de.png",Sky Cinema Premieren +24
 https://tv4.live/api/stream/4625@visitorweb.net/454252417/livetv.epg/sky.cinema.premieren.24.de.m3u8
-#EXTINF:-1 tvg-id="sky.cinema.thriller.de" tvg-name="sky.cinema.thriller.de" tvg-type="live" group-title="Germany" tvg-logo="https://media.tv4.live/sky.cinema.thriller.de.png" group-title="Filme",Sky Cinema Thriller
+#EXTINF:-1 tvg-id="sky.cinema.thriller.de" tvg-name="sky.cinema.thriller.de" tvg-type="live" group-title="Sky" tvg-logo="https://media.tv4.live/sky.cinema.thriller.de.png",Sky Cinema Thriller
 https://tv4.live/api/stream/4625@visitorweb.net/454252417/livetv.epg/sky.cinema.thriller.de.m3u8
-#EXTINF:-1 tvg-id="universal.channel.de" tvg-name="universal.channel.de" tvg-type="live" group-title="Germany" tvg-logo="https://media.tv4.live/universal.channel.de.png" group-title="Filme",Universal Channel
+#EXTINF:-1 tvg-id="universal.channel.de" tvg-name="universal.channel.de" tvg-type="live" group-title="Sky" tvg-logo="https://media.tv4.live/universal.channel.de.png",Universal Channel
 https://tv4.live/api/stream/4625@visitorweb.net/454252417/livetv.epg/universal.channel.de.m3u8
 
-#EXTINF:-1 tvg-id="Warner.film.de" tvg-name="Warner.film.de" tvg-type="live" group-title="Germany" tvg-logo="https://media.tv4.live/Warner.film.de.png" group-title="Filme",Warner Film
+#EXTINF:-1 tvg-id="Warner.film.de" tvg-name="Warner.film.de" tvg-type="live" group-title="Sky" tvg-logo="https://media.tv4.live/Warner.film.de.png",Warner Film
 https://tv4.live/api/stream/4625@visitorweb.net/454252417/livetv.epg/tnt.film.de.m3u8
-#EXTINF:-1 tvg-id="Warner.serie.de" tvg-name="Warner.serie.de" tvg-type="live" group-title="Germany" tvg-logo="https://media.tv4.live/Warner.serie.de.png" group-title="Filme",Warner Serie
+#EXTINF:-1 tvg-id="Warner.serie.de" tvg-name="Warner.serie.de" tvg-type="live" group-title="Sky" tvg-logo="https://media.tv4.live/Warner.serie.de.png",Warner Serie
 https://tv4.live/api/stream/4625@visitorweb.net/454252417/livetv.epg/tnt.serie.de.m3u8
