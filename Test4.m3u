@@ -38,7 +38,7 @@ http://revteam11.offshorerev.cc:80/mag00:1A:79:32:D6:16/9RzcQ7sbOb/168881
 #EXTINF:-1 tvg-id="Universal.Channel.HD.de" tvg-name="universal.channel.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/universal-channel.de.png",Universal Channel
 http://revteam11.offshorerev.cc:80/mag00:1A:79:32:D6:16/9RzcQ7sbOb/168934
 
-#EXTINF:-1 tvg-id="Warner.film.de" tvg-name="Warner.film.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/Warner-film.de.png",Warner Film
+#EXTINF:-1 tvg-id="TNT.Film.de" tvg-name="Warner.film.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/Warner-film.de.png",Warner Film
 http://revteam11.offshorerev.cc:80/mag00:1A:79:32:D6:16/9RzcQ7sbOb/168937
-#EXTINF:-1 tvg-id="Warner.serie.de" tvg-name="Warner.serie.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/Warner-serien.png",Warner Serie
+#EXTINF:-1 tvg-id="Warner.serie.de" tvg-name="TNT.Serie.HD.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/Warner-serien.png",Warner Serie
 http://revteam11.offshorerev.cc:80/mag00:1A:79:32:D6:16/9RzcQ7sbOb/168938
