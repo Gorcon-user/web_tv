@@ -1,4 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ORF 1 HD ²" tvg-name="ORF.eins.HD.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png",ORF 1 HD ²
+https://s6.hopslan.com/orf1/tracks-v1a1/mono.m3u8                  
+#EXTINF:-1 tvg-id="ORF 1 HD ³" tvg-name="ORF.eins.HD.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png",ORF 1 HD ³
+http://195.211.27.149:8887/8271/index.m3u8?token=test                  
+#EXTINF:-1 tvg-id="ORF 2 HD ²" tvg-name="ORF2.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/ordf-2.png",ORF 2 HD ²
+http://80.252.37.194:5000/udp/233.233.233.1:12000                  
+#EXTINF:-1 tvg-id="ORF III HD ¹" tvg-name="ORF.III.HD.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-III.png",ORF III HD ¹
+http://5.255.90.186:4000/play/a00u                  
+#EXTINF:-1 tvg-id="ORF Sport+ HD ¹" tvg-name="ORF.Sport.+.HD.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-sport-+.png",ORF Sport+ HD ¹
+http://80.252.37.194:5000/udp/233.233.233.2:12000                  
+#EXTINF:-1 tvg-id="SRF 1 HD ¹" tvg-name="SRF.1.HD.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-1.png",SRF 1 HD ¹
+http://185.236.229.31:9981/play/a00h                  
+#EXTINF:-1 tvg-id="SRF 2 HD ²" tvg-name="SRF.zwei.HD.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-zwei.png",SRF 2 HD ²
+http://185.236.229.31:9981/play/a00i         
+#EXTINF:-1 tvg-id="SRF info HD ¹" tvg-name="" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-info.png",SRF info HD ¹
+http://62.2.85.68:39981/play/a016 
+
 #EXTINF:-1 tvg-id="euronews.de" tvg-name="euronews.de" tvg-type="live" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/euronews.de.png",Euronews
 https://tv4.live/api/stream/4625@visitorweb.net/454252417/livetv.epg/euronews.de.m3u8
 #EXTINF:-1 tvg-id="eurosport.1.de" tvg-name="eurosport.1.de" tvg-type="live" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/eurosport_1.de.png",Eurosport 1
