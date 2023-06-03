@@ -16,6 +16,16 @@ http://185.236.229.31:9981/play/a00i
 #EXTINF:-1 tvg-id="SRF info HD ¹" tvg-name="" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-info.png",SRF info HD ¹
 http://62.2.85.68:39981/play/a016 
 
+#EXTINF:-1 tvg-id="Eurosport 1 DE" tvg-name="EUROSPORT 1 H265" tvg-logo="http://mdstream.net:8080/images/311af97d1561f7130762f5761406ec91.png" group-title="DE - SPORT",DSP: EUROSPORT 1 H265
+http://iptvworld.ml:2095/x2hTndwrd9/r7R6ET97/19521
+#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="EUROSPORT 2 H265" tvg-logo="http://mdstream.net:8080/images/d88fd2a5f9715aa0e412d56b66f56215.png" group-title="DE - SPORT",DSP: EUROSPORT 2 H265
+http://iptvworld.ml:2095/x2hTndwrd9/r7R6ET97/19522
+
+#EXTINF:-1 tvg-id="Eurosport 1 DE" tvg-name="DSP: EUROSPORT 1 H265" tvg-logo="http://mdstream.net:8080/images/311af97d1561f7130762f5761406ec91.png" group-title="DE - SPORT",DSP: EUROSPORT 1 H265
+http://mdstream.net:8080/Mert_Degisim/qVWog40EPP/17601
+#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="DSP: EUROSPORT 2 H265" tvg-logo="http://mdstream.net:8080/images/d88fd2a5f9715aa0e412d56b66f56215.png" group-title="DE - SPORT",DSP: EUROSPORT 2 H265
+http://mdstream.net:8080/Mert_Degisim/qVWog40EPP/17602
+
 #EXTINF:-1 tvg-id="euronews.de" tvg-name="euronews.de" tvg-type="live" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/euronews.de.png",Euronews
 https://tv4.live/api/stream/4625@visitorweb.net/454252417/livetv.epg/euronews.de.m3u8
 #EXTINF:-1 tvg-id="eurosport.1.de" tvg-name="eurosport.1.de" tvg-type="live" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/eurosport_1.de.png",Eurosport 1
