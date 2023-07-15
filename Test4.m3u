@@ -18,6 +18,18 @@ http://62.2.85.68:39981/play/a016
 
 #EXTINF:-1 tvg-id="Sky Sport Tennis HD+" tvg-name="" tvg-type="live" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sky-sport-tennis.png",Sky Sport Tennis HD+
 http://psmtv.site:8080/bJe42QfXZk9t/5PBFYCQEqRVh/284467
+#EXTINF:-1 tvg-id="Sky Sport Tennis HD" tvg-name="" tvg-type="live" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sky-sport-tennis.png",Sky Sport Tennis HD
+http://psmtv.site:8080/bJe42QfXZk9t/5PBFYCQEqRVh/284468
+#EXTINF:-1 tvg-id="Sky Sport Top Event HD+" tvg-name="" tvg-type="live" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sky-sport-top-event.png",Sky Sport Top Event HD+
+http://psmtv.site:8080/bJe42QfXZk9t/5PBFYCQEqRVh/284465
+#EXTINF:-1 tvg-id="Sky Sport Top Event HD+" tvg-name="" tvg-type="live" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sky-sport-top-event.png",Sky Sport Top Event HD
+http://psmtv.site:8080/bJe42QfXZk9t/5PBFYCQEqRVh/284466
+#EXTINF:-1 tvg-id="Sky Sport Mix HD+" tvg-name="" tvg-type="live" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sky-sport-mix.png",Sky Sport Mix HD+
+http://psmtv.site:8080/bJe42QfXZk9t/5PBFYCQEqRVh/284463
+#EXTINF:-1 tvg-id="Sky Sport Mix HD" tvg-name="" tvg-type="live" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sky-sport-mix.png",Sky Sport Mix HD
+http://psmtv.site:8080/bJe42QfXZk9t/5PBFYCQEqRVh/284464
+
+
 
 #EXTINF:-1 tvg-id="Eurosport 1 DE" tvg-name="EUROSPORT 1 H265" group-title="Sport" tvg-logo="http://mdstream.net:8080/images/311af97d1561f7130762f5761406ec91.png" group-title="DE - SPORT",DSP: EUROSPORT 1 H265
 http://iptvworld.ml:2095/x2hTndwrd9/r7R6ET97/19521
