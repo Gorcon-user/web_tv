@@ -1,3 +1,6 @@
+#EXTINF:-1,DE: Sky Sport Tennis HD+
+http://psmtv.site:8080/bJe42QfXZk9t/5PBFYCQEqRVh/284467
+
 #EXTM3U
 #EXTINF:-1 tvg-id="ORF 1 HD ²" tvg-name="ORF.eins.HD.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png",ORF 1 HD ²
 https://s6.hopslan.com/orf1/tracks-v1a1/mono.m3u8                  
@@ -16,14 +19,17 @@ http://185.236.229.31:9981/play/a00i
 #EXTINF:-1 tvg-id="SRF info HD ¹" tvg-name="" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-info.png",SRF info HD ¹
 http://62.2.85.68:39981/play/a016 
 
-#EXTINF:-1 tvg-id="Eurosport 1 DE" tvg-name="EUROSPORT 1 H265" tvg-logo="http://mdstream.net:8080/images/311af97d1561f7130762f5761406ec91.png" group-title="DE - SPORT",DSP: EUROSPORT 1 H265
+#EXTINF:-1 tvg-id="Sky Sport Tennis HD+" tvg-name="" tvg-type="live" group-title="Sport" tvg-logo="https://sender.epglogos.de/302x190_w/12182.png",Sky Sport Tennis HD+
+http://psmtv.site:8080/bJe42QfXZk9t/5PBFYCQEqRVh/284467
+
+#EXTINF:-1 tvg-id="Eurosport 1 DE" tvg-name="EUROSPORT 1 H265" group-title="Sport" tvg-logo="http://mdstream.net:8080/images/311af97d1561f7130762f5761406ec91.png" group-title="DE - SPORT",DSP: EUROSPORT 1 H265
 http://iptvworld.ml:2095/x2hTndwrd9/r7R6ET97/19521
-#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="EUROSPORT 2 H265" tvg-logo="http://mdstream.net:8080/images/d88fd2a5f9715aa0e412d56b66f56215.png" group-title="DE - SPORT",DSP: EUROSPORT 2 H265
+#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="EUROSPORT 2 H265" group-title="Sport" tvg-logo="http://mdstream.net:8080/images/d88fd2a5f9715aa0e412d56b66f56215.png" group-title="DE - SPORT",DSP: EUROSPORT 2 H265
 http://iptvworld.ml:2095/x2hTndwrd9/r7R6ET97/19522
 
-#EXTINF:-1 tvg-id="Eurosport 1 DE" tvg-name="DSP: EUROSPORT 1 H265" tvg-logo="http://mdstream.net:8080/images/311af97d1561f7130762f5761406ec91.png" group-title="DE - SPORT",DSP: EUROSPORT 1 H265
+#EXTINF:-1 tvg-id="Eurosport 1 DE" tvg-name="DSP: EUROSPORT 1 H265" group-title="Sport" tvg-logo="http://mdstream.net:8080/images/311af97d1561f7130762f5761406ec91.png" group-title="DE - SPORT",DSP: EUROSPORT 1 H265
 http://mdstream.net:8080/Mert_Degisim/qVWog40EPP/17601
-#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="DSP: EUROSPORT 2 H265" tvg-logo="http://mdstream.net:8080/images/d88fd2a5f9715aa0e412d56b66f56215.png" group-title="DE - SPORT",DSP: EUROSPORT 2 H265
+#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="DSP: EUROSPORT 2 H265" group-title="Sport" tvg-logo="http://mdstream.net:8080/images/d88fd2a5f9715aa0e412d56b66f56215.png" group-title="DE - SPORT",DSP: EUROSPORT 2 H265
 http://mdstream.net:8080/Mert_Degisim/qVWog40EPP/17602
 
 #EXTINF:-1 tvg-id="euronews.de" tvg-name="euronews.de" tvg-type="live" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/euronews.de.png",Euronews
