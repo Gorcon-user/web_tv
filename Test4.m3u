@@ -1,4 +1,15 @@
-#EXTM3U
+  #EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="ORF 1" tvg-name="ORF.eins.de" tvg-shift="0" radio="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png" group-title="SIMPLITV",ORF 1
+plugin://plugin.video.simplitv/?mode=play&amp;channel=orf1&amp
+#EXTINF:-1 tvg-chno="2" tvg-id="ORF 2" tvg-name="ORF.2.de" tvg-shift="0" radio="" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24518.png" group-title="SIMPLITV",ORF 2
+plugin://plugin.video.simplitv/?mode=play&amp;channel=orf2&amp
+#EXTINF:-1 tvg-chno="3" tvg-id="ORF III" tvg-name="ORF.III.de" tvg-shift="0" radio="" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24520.png" group-title="SIMPLITV",ORF III
+plugin://plugin.video.simplitv/?mode=play&amp;channel=orf-iii&amp
+#EXTINF:-1 tvg-chno="4" tvg-id="ORF Sport+" tvg-name="ORF.SPORT.+.de" tvg-shift="0" radio="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png" group-title="SIMPLITV",ORF Sport+
+plugin://plugin.video.simplitv/?mode=play&amp;channel=orf-sport-plus&amp
+#EXTINF:-1 tvg-chno="5" tvg-id="ServusTV AT" tvg-name="ServusHD.at" tvg-shift="0" radio="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png" group-title="SIMPLITV",ServusTV AT
+plugin://plugin.video.simplitv/?mode=play&amp;channel=servustv-austria&amp
+
 #EXTINF:-1 tvg-id="ORF 1 HD ²" tvg-name="ORF.eins.HD.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png",ORF 1 HD ²
 https://s6.hopslan.com/orf1/tracks-v1a1/mono.m3u8                  
 #EXTINF:-1 tvg-id="ORF 1 HD ³" tvg-name="ORF.eins.HD.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png",ORF 1 HD ³
