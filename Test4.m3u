@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-chno="114" tvg-id="ORF 1" tvg-name="ORF.eins.de" tvg-shift="0" radio="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png" group-title="SIMPLITV",ORF 1
+plugin://plugin.video.simplitv/?mode=play&channel=orf1
 
 #EXTINF:-1 tvg-id="ORF 1 HD ²" tvg-name="ORF.eins.HD.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png",ORF 1 HD ²
 https://s6.hopslan.com/orf1/tracks-v1a1/mono.m3u8                  
