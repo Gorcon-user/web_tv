@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="ORF 1*" tvg-name="ORF.eins.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/orf1-hd-wei-f-dark.png" group-title="SIMPLITV",ORF 1
+#EXTINF:-1 tvg-chno="1" tvg-id="ORF 1*" tvg-name="ORF1.at" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/orf1-hd-wei-f-dark.png" group-title="SIMPLITV",ORF 1
 plugin://plugin.video.simplitv/?mode=play&channel=orf1
-#EXTINF:-1 tvg-chno="2" tvg-id="ORF 2*" tvg-name="ORF.2.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/orf2-hd-wei-f-white.png" group-title="SIMPLITV",ORF 2
+#EXTINF:-1 tvg-chno="2" tvg-id="ORF 2*" tvg-name="ORF2.at" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/orf2-hd-wei-f-white.png" group-title="SIMPLITV",ORF 2
 plugin://plugin.video.simplitv/?mode=play&channel=orf2
-#EXTINF:-1 tvg-chno="3" tvg-id="ORF III*" tvg-name="ORF.III.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/orf3-hd-wei-f-white.png" group-title="SIMPLITV",ORF III
+#EXTINF:-1 tvg-chno="3" tvg-id="ORF III*" tvg-name="ORF3.at" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/orf3-hd-wei-f-white.png" group-title="SIMPLITV",ORF III
 plugin://plugin.video.simplitv/?mode=play&channel=orf-iii
-#EXTINF:-1 tvg-chno="4" tvg-id="ORF Sport+*" tvg-name="ORF.SPORT.+.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/orf-sport-plus-hd-wei-f-white.png" group-title="SIMPLITV",ORF Sport+
+#EXTINF:-1 tvg-chno="4" tvg-id="ORF Sport+*" tvg-name="ORFSport.at" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/orf-sport-plus-hd-wei-f-white.png" group-title="SIMPLITV",ORF Sport+
 plugin://plugin.video.simplitv/?mode=play&channel=orf-sport-plus
-#EXTINF:-1 tvg-chno="5" tvg-id="ServusTV AT*" tvg-name="ServusHD.at" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/servustv-hd-wei-f-white.png" group-title="SIMPLITV",ServusTV AT
+#EXTINF:-1 tvg-chno="5" tvg-id="ServusTV AT*" tvg-name="ServusTV.at" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/servustv-hd-wei-f-white.png" group-title="SIMPLITV",ServusTV AT
 plugin://plugin.video.simplitv/?mode=play&channel=servustv-austria
 
 
