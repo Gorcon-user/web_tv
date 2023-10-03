@@ -5,7 +5,7 @@ http://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-name="ORF 1*" tvg-id="ORF1.at" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/orf1-hd-wei-f-dark.png" group-title="SIMPLITV",ORF 1
 plugin://plugin.video.simplitv/?mode=play&channel=orf1
 #EXTM3U x-tvg-url="https://my.iptv.community/epg_temp_dl/output-epgs/austria.xml"
-#EXTINF:-1 tvg-name="ORF 1 HD ²" tvg-id="ORF1.at" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png",ORF 1 HD ²
+#EXTINF:-1 tvg-name="ORF 1 HD ²" tvg-id="ATV.at" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png",ORF 1 HD ²
 https://s6.hopslan.com/orf1/tracks-v1a1/mono.m3u8
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz"
 #EXTINF:-1 tvg-name="ORF 2 HD ²" tvg-id="ORF.2.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/ordf-2.png",ORF 2 HD ²
