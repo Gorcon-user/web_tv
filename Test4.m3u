@@ -11,6 +11,9 @@ plugin://plugin.video.simplitv/?mode=play&channel=orf-sport-plus
 #EXTINF:-1 tvg-chno="5" tvg-id="ServusTV AT*" tvg-name="ServusTV.at" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/servustv-hd-wei-f-white.png" group-title="SIMPLITV",ServusTV AT
 plugin://plugin.video.simplitv/?mode=play&channel=servustv-austria
 
+#EXTINF:-1 tvg-id="Star Trek: Raumschiff Voyager (1995)" tvg-name="" thumb="https://cinemathek.net/wp-content/uploads/2023/10/gNS5tRSG3UlXodCxznKKOKweqxh-150x150.jpg group-title="Sendungstipp",Star Trek: Raumschiff Voyager
+plugin://plugin.video.xstream/?entryUrl=https%3a%2f%2fcinemathek.net%2fserien%2fstar-trek-raumschiff-voyager%2f&amp;function=showSeasons&amp;sDesc=Star%20Trek%20-%20Raumschiff%20Voyager%20ist%20die%20vierte%20im%20Star-Trek-Universum%20angesiedelte%20Fernsehserie.%20Die%20Serie%20handelt%20von%20der%20Reise%20der%20USS%20Voyager%2c%20die%20am%20anderen%20Ende%20der%20Galaxie%20gestrandet&amp;sName=Star%20Trek%3a%20Raumschiff%20Voyager&amp;sThumbnail=https%3a%2f%2fcinemathek.net%2fwp-content%2fuploads%2f2023%2f10%2fgNS5tRSG3UlXodCxznKKOKweqxh-150x150.jpg&amp;site=cinemathek&amp;title=Star%20Trek%3a%20Raumschiff%20Voyager%20(1995)&amp;trumb=%2fstorage%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsearch.png&quot;,return)
+ 
 
 #EXTINF:-1 tvg-id="ORF 1 HD ²" tvg-name="ORF1.at" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png",ORF 1 HD ²
 https://s6.hopslan.com/orf1/tracks-v1a1/mono.m3u8                  
