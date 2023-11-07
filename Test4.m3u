@@ -13,7 +13,6 @@ plugin://plugin.video.simplitv/?mode=play&channel=servustv-austria
 #EXTINF:-1 tvg-chno="5" tvg-name="Eurosport 1 HD*" tvg-id="Eurosport.1.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/eurosport-1-hd-wei-f-white.png" group-title="SIMPLITV",Eurosport 1 HD
 plugin://plugin.video.simplitv/?mode=play&channel=eurosport1austriahd
 
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz"
 #EXTINF:-1 tvg-name="Das Erste HD" tvg-id="Das.Erste.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
 http://mcdn.daserste.de/daserste/de/master.m3u8
 
