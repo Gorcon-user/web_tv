@@ -1,3 +1,5 @@
 #EXTM3U x-tvg-url="https://my.iptv.community/epg_temp_dl/output-epgs/austria.xml"
 #EXTINF:-1 tvg-chno="1" tvg-name="ORF2.at" tvg-id="ORF1.at" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/orf1-hd-wei-f-dark.png" group-title="SIMPLITV",ORF 1
 plugin://plugin.video.simplitv/?mode=play&channel=orf1
+#EXTINF:-1 tvg-name="ORF 1 HD ²" tvg-id="ORF1.at" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png",ORF 1 HD ²
+https://s6.hopslan.com/orf1/tracks-v1a1/mono.m3u8
