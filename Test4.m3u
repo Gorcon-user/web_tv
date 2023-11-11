@@ -1,46 +1,46 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz"
-#EXTINF:-1 tvg-chno="1" tvg-name="ORF 1*" tvg-id="ORF.eins.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/orf1-hd-wei-f-dark.png" group-title="SIMPLITV",ORF 1
+#EXTINF:-1 tvg-chno="1" tvg-name="ORF 1*" tvg-id="ORF1.at" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/orf1-hd-wei-f-dark.png" group-title="SIMPLITV",ORF 1
 plugin://plugin.video.simplitv/?mode=play&channel=orf1
-#EXTINF:-1 tvg-chno="2" tvg-name="ORF 2*" tvg-id="ORF.2.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/orf2-hd-wei-f-white.png" group-title="SIMPLITV",ORF 2
+#EXTINF:-1 tvg-chno="2" tvg-name="ORF 2*" tvg-id="ORF2.at" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/orf2-hd-wei-f-white.png" group-title="SIMPLITV",ORF 2
 plugin://plugin.video.simplitv/?mode=play&channel=orf2
-#EXTINF:-1 tvg-chno="3" tvg-name="ORF III*" tvg-id="ORF.III.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/orf3-hd-wei-f-white.png" group-title="SIMPLITV",ORF III
+#EXTINF:-1 tvg-chno="3" tvg-name="ORF III*" tvg-id="ORF3.at" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/orf3-hd-wei-f-white.png" group-title="SIMPLITV",ORF III
 plugin://plugin.video.simplitv/?mode=play&channel=orf-iii
-#EXTINF:-1 tvg-chno="4" tvg-name="ORF Sport+*" tvg-id="ORF.SPORT.+.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/orf-sport-plus-hd-wei-f-white.png" group-title="SIMPLITV",ORF Sport+
+#EXTINF:-1 tvg-chno="4" tvg-name="ORF Sport+*" tvg-id="ORF Sport +" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/orf-sport-plus-hd-wei-f-white.png" group-title="SIMPLITV",ORF Sport+
 plugin://plugin.video.simplitv/?mode=play&channel=orf-sport-plus
 #EXTINF:-1 tvg-chno="5" tvg-name="ServusTV AT*" tvg-id="ServusTV.at" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/servustv-hd-wei-f-white.png" group-title="SIMPLITV",ServusTV AT
 plugin://plugin.video.simplitv/?mode=play&channel=servustv-austria
 
-#EXTINF:-1 tvg-chno="5" tvg-name="Eurosport 1 HD*" tvg-id="Eurosport.1.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/eurosport-1-hd-wei-f-white.png" group-title="SIMPLITV",Eurosport 1 HD
+#EXTINF:-1 tvg-chno="5" tvg-name="Eurosport 1 HD*" tvg-id="Eurosport1.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/eurosport-1-hd-wei-f-white.png" group-title="SIMPLITV",Eurosport 1 HD
 plugin://plugin.video.simplitv/?mode=play&channel=eurosport1austriahd
 
-#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="Das.Erste.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
+#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
 http://mcdn.daserste.de/daserste/de/master.m3u8
 
 #EXTINF:-1 tvg-id="Star Trek: Raumschiff Voyager (1995)" tvg-name="" tvg-logo="https://cinemathek.net/wp-content/uploads/2023/10/gNS5tRSG3UlXodCxznKKOKweqxh-150x150.jpg group-title="Sendungstipp",Star Trek: Raumschiff Voyager
 plugin://plugin.video.xstream/?entryUrl=https%3a%2f%2fcinemathek.net%2fserien%2fstar-trek-raumschiff-voyager%2f&amp;function=showSeasons&amp;sDesc=Star%20Trek%20-%20Raumschiff%20Voyager%20ist%20die%20vierte%20im%20Star-Trek-Universum%20angesiedelte%20Fernsehserie.%20Die%20Serie%20handelt%20von%20der%20Reise%20der%20USS%20Voyager%2c%20die%20am%20anderen%20Ende%20der%20Galaxie%20gestrandet&amp;sName=Star%20Trek%3a%20Raumschiff%20Voyager&amp;sThumbnail=https%3a%2f%2fcinemathek.net%2fwp-content%2fuploads%2f2023%2f10%2fgNS5tRSG3UlXodCxznKKOKweqxh-150x150.jpg&amp;site=cinemathek&amp;title=Star%20Trek%3a%20Raumschiff%20Voyager%20(1995)&amp;trumb=%2fstorage%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsearch.png&quot;,return)
  
-#EXTINF:-1 tvg-name="ORF 1 HD ²" tvg-id="ORF.eins.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png",ORF 1 HD ²
+#EXTINF:-1 tvg-name="ORF 1 HD ²" tvg-id="ORF1.at" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png",ORF 1 HD ²
 https://s6.hopslan.com/orf1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="ORF 1 HD ³" tvg-id="ORF.eins.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png",ORF 1 HD ³
+#EXTINF:-1 tvg-name="ORF 1 HD ³" tvg-id="ORF1.at" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png",ORF 1 HD ³
 http://195.211.27.149:8887/8271/index.m3u8?token=test
-#EXTINF:-1 tvg-name="ORF 2 HD ²" tvg-id="ORF.2.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/ordf-2.png",ORF 2 HD ²
+#EXTINF:-1 tvg-name="ORF 2 HD ²" tvg-id="ORF2.at" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/ordf-2.png",ORF 2 HD ²
 http://80.252.37.194:5000/udp/233.233.233.1:12000
-#EXTINF:-1 tvg-name="ORF III HD ¹" tvg-id="ORF.III.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-III.png",ORF III HD ¹
+#EXTINF:-1 tvg-name="ORF III HD ¹" tvg-id="ORF3.at" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-III.png",ORF III HD ¹
 http://5.255.90.186:4000/play/a00u
-#EXTINF:-1 tvg-name="ORF Sport+ HD ¹" tvg-id="ORFSport.at" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-sport-+.png",ORF Sport+ HD ¹
+#EXTINF:-1 tvg-name="ORF Sport+ HD ¹" tvg-id="ORF Sport +" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-sport-+.png",ORF Sport+ HD ¹
 http://80.252.37.194:5000/udp/233.233.233.2:12000                  
-#EXTINF:-1 tvg-name="SRF 1 HD ¹" tvg-id="SRF.1.HD.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-1.png",SRF 1 HD ¹
+#EXTINF:-1 tvg-name="SRF 1 HD ¹" tvg-id="SRF1.ch" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-1.png",SRF 1 HD ¹
 http://185.236.229.31:9981/play/a00h                  
-#EXTINF:-1 tvg-name="SRF 2 HD ¹" tvg-id="SRF.zwei.HD.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-zwei.png",SRF 2 HD ²
+#EXTINF:-1 tvg-name="SRF 2 HD ¹" tvg-id="SRF2.ch" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-zwei.png",SRF 2 HD ²
 http://185.236.229.31:9981/play/a00i         
-#EXTINF:-1 tvg-name="SRF info HD ¹" tvg-id="" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-info.png",SRF info HD ¹
+#EXTINF:-1 tvg-name="SRF info HD ¹" tvg-id="SRFinfo.ch" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-info.png",SRF info HD ¹
 http://62.2.85.68:39981/play/a016 
 
-#EXTINF:-1 tvg-name="SRF 1 HD ²" tvg-id="SRF.1.HD.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-1.png",SRF 1 HD ¹
+#EXTINF:-1 tvg-name="SRF 1 HD ²" tvg-id="SRF1.ch" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-1.png",SRF 1 HD ¹
 https://s6.hopslan.com/srf1/tracks-v1a1/mono.m3u8                  
-#EXTINF:-1 tvg-name="SRF 2 HD ²" tvg-id="SRF.zwei.HD.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-zwei.png",SRF 2 HD ²
+#EXTINF:-1 tvg-name="SRF 2 HD ²" tvg-id="SRF2.ch" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-zwei.png",SRF 2 HD ²
 https://s6.hopslan.com/srf2/tracks-v1a1/mono.m3u8         
-#EXTINF:-1 tvg-name="SRF info HD ²" tvg-id="" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-info.png",SRF info HD ¹
+#EXTINF:-1 tvg-name="SRF info HD ²" tvg-id="SRFinfo.ch" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-info.png",SRF info HD ¹
 https://s6.hopslan.com/srfinfo/tracks-v1a1/mono.m3u8
 
 
