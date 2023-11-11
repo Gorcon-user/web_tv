@@ -43,20 +43,82 @@ https://s6.hopslan.com/srf2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="SRF info HD ²" tvg-id="SRFinfo.ch" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-info.png",SRF info HD ¹
 https://s6.hopslan.com/srfinfo/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:-1 tvg-id="Sky Sport Tennis HD+" tvg-name="" tvg-type="live" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sky-sport-tennis.png",Sky Sport Tennis HD+
-http://psmtv.site:8080/bJe42QfXZk9t/5PBFYCQEqRVh/284467
-#EXTINF:-1 tvg-id="Sky Sport Tennis HD" tvg-name="" tvg-type="live" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sky-sport-tennis.png",Sky Sport Tennis HD
-http://psmtv.site:8080/bJe42QfXZk9t/5PBFYCQEqRVh/284468
-#EXTINF:-1 tvg-id="Sky Sport Top Event HD+" tvg-name="" tvg-type="live" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sky-sport-top-event.png",Sky Sport Top Event HD+
-http://psmtv.site:8080/bJe42QfXZk9t/5PBFYCQEqRVh/284465
-#EXTINF:-1 tvg-id="Sky Sport Top Event HD+" tvg-name="" tvg-type="live" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sky-sport-top-event.png",Sky Sport Top Event HD
-http://psmtv.site:8080/bJe42QfXZk9t/5PBFYCQEqRVh/284466
-#EXTINF:-1 tvg-id="Sky Sport Mix HD+" tvg-name="" tvg-type="live" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sky-sport-mix.png",Sky Sport Mix HD+
-http://psmtv.site:8080/bJe42QfXZk9t/5PBFYCQEqRVh/284463
-#EXTINF:-1 tvg-id="Sky Sport Mix HD" tvg-name="" tvg-type="live" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sky-sport-mix.png",Sky Sport Mix HD
-http://psmtv.site:8080/bJe42QfXZk9t/5PBFYCQEqRVh/284464
-
+#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="DasErste.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://mcdn.daserste.de/daserste/dash/manifest.mpd
+#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://zdf-dash-15.akamaized.net/dash/live/2016508/de/manifest.mpd
+#EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://zdf-dash-18.akamaized.net/dash/live/2016511/dach/manifest.mpd
+#EXTINF:-1 tvg-name="ZDFneo HD" tvg-id="ZDFneo.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png",ZDFneo HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://zdf-dash-16.akamaized.net/dash/live/2016509/de/manifest.mpd
+#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png",one HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://mcdn.one.ard.de/ardone/dash/manifest.mpd
+#EXTINF:-1 tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png",ZDFinfo HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://zdf-dash-17.akamaized.net/dash/live/2016510/de/manifest.mpd
+#EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",ARD-alpha
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://ardalphadash.akamaized.net/dash/live/2016972/ard_alpha/dvbt2/manifest.mpd
+#EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png",phoenix
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://zdf-dash-19.akamaized.net/dash/live/2016512/de/manifest.mpd
+#EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png",tagesschau24
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://tagesschau.akamaized.net/dash/live/2020098/tagesschau/tagesschau_3/tagesschau_3.mpd
+#EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" group-title="Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png",KiKA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://kikageodash.akamaized.net/dash/live/2022694/livetvkika_de/manifest.mpd
+#EXTINF:-1 tvg-name="WDR HD" tvg-id="WDRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://wdrfs247.akamaized.net/dash/live/2016702/wdrfs247_geo/dash.mpd
+#EXTINF:-1 tvg-name="NDR Niedersachsen HD" tvg-id="NDRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR Niedersachsen HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://ndrfs.akamaized.net/dash/live/2020094/ndrfs-ebuttd/ndrfs-ebuttd-nds.mpd
+#EXTINF:-1 tvg-name="BR Fernsehen Süd HD" tvg-id="BRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Fernsehen Süd HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://bfrsueddash.akamaized.net/dash/live/2016970/bfs_sued_de/dvbt2/manifest.mpd
+#EXTINF:-1 tvg-name="SWR Baden-Württemberg HD " tvg-id="SWRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR Baden-Württemberg HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://swrbw-dash.akamaized.net/dash/live/2018674/swrbwd/manifest.mpd
+#EXTINF:-1 tvg-name="SR Fernsehen HD" tvg-id="SRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png",SR Fernsehen HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://swrsrfs-dash.akamaized.net/dash/live/2018687/srfsgeo/dash.mpd
+#EXTINF:-1 tvg-name="hr-fernsehen" tvg-id="HR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",hr-fernsehen
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://hrdash.akamaized.net/dash/live/2024543/hrdash/manifest.mpd
+#EXTINF:-1 tvg-name="MDR Sachsen-Anhalt HD" tvg-id="MDRS-Anhalt.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",MDR Sachsen-Anhalt HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://mdrtvsadash.akamaized.net/dash/live/2094116/mdrtvsa/dash.mpd
+#EXTINF:-1 tvg-name="rbb Berlin HD" tvg-id="rbbBerlin.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png",rbb Berlin HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://rbb-dash-berlin.akamaized.net/dash/live/2017826/rbb_berlin/manifest.mpd
+#EXTINF:-1 tvg-name="Radio Bremen TV HD" tvg-id="RadioBremen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbtv.png",Radio Bremen TV HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://rbdashlive.akamaized.net/dash/live/2020436/rbfs/dash.mpd
 
 
 #EXTINF:-1 tvg-id="Eurosport 1 DE" tvg-name="EUROSPORT 1 H265" group-title="Sport" tvg-logo="http://mdstream.net:8080/images/311af97d1561f7130762f5761406ec91.png" group-title="DE - SPORT",DSP: EUROSPORT 1 H265
@@ -71,44 +133,3 @@ http://mdstream.net:8080/Mert_Degisim/qVWog40EPP/17602
 
 #EXTINF:-1 tvg-id="euronews.de" tvg-name="euronews.de" tvg-type="live" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/euronews.de.png",Euronews
 https://tv4.live/api/stream/4625@visitorweb.net/454252417/livetv.epg/euronews.de.m3u8
-#EXTINF:-1 tvg-id="eurosport.1.de" tvg-name="eurosport.1.de" tvg-type="live" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/eurosport_1.de.png",Eurosport 1
-https://tv4.live/api/stream/4625@visitorweb.net/454252417/livetv.epg/eurosport.1.de.m3u8
-#EXTINF:-1 tvg-id="Eurosport.2.HD.de" tvg-name="eurosport.2.de" tvg-type="live" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/eurosport.2.de.png",Eurosport 2
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:D6:16/9RzcQ7sbOb/168804
-#EXTINF:-1 tvg-id="Eurosport.2.HD.de" tvg-name="eurosport2xtra.de" tvg-type="live" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/eurosport2xtra.de.png",Eurosport 2 xtra
-https://tv4.live/api/stream/4625@visitorweb.net/454252417/livetv.epg/eurosport2xtra.de.m3u8
-
-#EXTINF:-1 tvg-id="13TH.STREET.HD.de" tvg-name="13TH.STREET.HD.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/13-street.png",13th Street
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:D6:16/9RzcQ7sbOb/168775
-
-#EXTINF:-1 tvg-id="Kinowelt.TV.de" tvg-name="kinowelt.tv.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/kinowelt-tv.de.png",Kinowelt TV
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:D6:16/9RzcQ7sbOb/168815
-#EXTINF:-1 tvg-id="Sky.1.HD.de" tvg-name="sky.1.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sky-one-hd.de.png",Sky 1
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:D6:16/9RzcQ7sbOb/168864
-#EXTINF:-1 tvg-id="Sky.Action.HD.de" tvg-name="sky.action.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sky-cinema-action-hd.png",Sky Action
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:D6:16/9RzcQ7sbOb/168870
-#EXTINF:-1 tvg-id="Sky.Atlantic.HD.de" tvg-name="sky.atlantic.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sky-atlantic-hd.png",Sky Atlantic
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:D6:16/9RzcQ7sbOb/168865
-#EXTINF:-1 tvg-id="Sky.Action.HD.de" tvg-name="sky.cinema.action.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sky-cinema-action-hd.png",Sky Cinema Action
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:D6:16/9RzcQ7sbOb/168871
-#EXTINF:-1 tvg-id="Sky.Hits.HD.de" tvg-name="sky.cinema.best.of.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sky-cinema-bestof-hd.png",Sky Cinema Best Of
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:D6:16/9RzcQ7sbOb/168878
-#EXTINF:-1 tvg-id="Sky.Nostalgie.de" tvg-name="sky.cinema.classics.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sky-cinema-classics-hd.png",Sky Cinema Classics
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:D6:16/9RzcQ7sbOb/168879
-#EXTINF:-1 tvg-id="Sky.Cinema.Family.HD.de" tvg-name="sky.cinema.family.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sky-cinema-family-hd.png",Sky Cinema Family
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:D6:16/9RzcQ7sbOb/168875
-#EXTINF:-1 tvg-id="Sky.Cinema.Fun.de" tvg-name="sky.cinema.fun.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sky-cinema-fun-hd.png",Sky Cinema Fun
-https://tv4.live/api/stream/4625@visitorweb.net/454252417/livetv.epg/sky.cinema.fun.de.m3u8
-#EXTINF:-1 tvg-id="Sky.Cinema.HD.de" tvg-name="sky.cinema.premieren.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sky-cinema-premieren-hd.png",Sky Cinema Premieren
-https://tv4.live/api/stream/4625@visitorweb.net/454252417/livetv.epg/sky.cinema.premieren.de.m3u8
-#EXTINF:-1 tvg-id="Sky.Cinema.+24.HD.de" tvg-name="sky.cinema.premieren.24.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sky-cinema-premieren-24-hd.de.png",Sky Cinema Premieren +24
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:D6:16/9RzcQ7sbOb/168866
-#EXTINF:-1 tvg-id="Sky.Cinema.Thriller.HD.de" tvg-name="sky.cinema.thriller.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sky-cinema-thriller-hd.png",Sky Cinema Thriller
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:D6:16/9RzcQ7sbOb/168881
-#EXTINF:-1 tvg-id="Universal.Channel.HD.de" tvg-name="universal.channel.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/universal-channel.de.png",Universal Channel
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:D6:16/9RzcQ7sbOb/168934
-
-#EXTINF:-1 tvg-id="TNT.Film.de" tvg-name="Warner.film.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/Warner-film.de.png",Warner Film
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:D6:16/9RzcQ7sbOb/168937
-#EXTINF:-1 tvg-id="Warner.serie.de" tvg-name="TNT.Serie.HD.de" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/Warner-serien.png",Warner Serie
-http://revteam11.offshorerev.cc:80/mag00:1A:79:32:D6:16/9RzcQ7sbOb/168938
