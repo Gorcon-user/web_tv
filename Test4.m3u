@@ -84,15 +84,11 @@ http://kikageodash.akamaized.net/dash/live/2022694/livetvkika_de/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://wdrfs247.akamaized.net/dash/live/2016702/wdrfs247_geo/dash.mpd
-#EXTINF:-1 tvg-name="NDR Niedersachsen HD" tvg-id="NDRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR Niedersachsen HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-http://ndrfs.akamaized.net/dash/live/2020094/ndrfs-ebuttd/ndrfs-ebuttd-nds.mpd
 
 #EXTINF:-1 tvg-name="NDR MV HD" tvg-id="ndrmv.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR MV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-http://ndrfshbbtvdash-i.akamaihd.net/dash/live/1019236/ndr_hbbtv_mv/ndr_hbbtv_mv.mpd
+http://ndrfs.akamaized.net/dash/live/2020093/ndrfs-ebuttd/ndrfs-ebuttd-mv.mpd
 
 #EXTINF:-1 tvg-name="arte" tvg-id="ARTE.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png",arte
 #KODIPROP:inputstreamaddon=inputstream.adaptive
