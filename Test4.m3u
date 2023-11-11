@@ -16,9 +16,6 @@ plugin://plugin.video.simplitv/?mode=play&channel=eurosport1austriahd
 #EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
 http://mcdn.daserste.de/daserste/de/master.m3u8
 
-#EXTINF:-1 tvg-id="Star Trek: Raumschiff Voyager (1995)" tvg-name="" tvg-logo="https://cinemathek.net/wp-content/uploads/2023/10/gNS5tRSG3UlXodCxznKKOKweqxh-150x150.jpg group-title="Sendungstipp",Star Trek: Raumschiff Voyager
-plugin://plugin.video.xstream/?entryUrl=https%3a%2f%2fcinemathek.net%2fserien%2fstar-trek-raumschiff-voyager%2f&amp;function=showSeasons&amp;sDesc=Star%20Trek%20-%20Raumschiff%20Voyager%20ist%20die%20vierte%20im%20Star-Trek-Universum%20angesiedelte%20Fernsehserie.%20Die%20Serie%20handelt%20von%20der%20Reise%20der%20USS%20Voyager%2c%20die%20am%20anderen%20Ende%20der%20Galaxie%20gestrandet&amp;sName=Star%20Trek%3a%20Raumschiff%20Voyager&amp;sThumbnail=https%3a%2f%2fcinemathek.net%2fwp-content%2fuploads%2f2023%2f10%2fgNS5tRSG3UlXodCxznKKOKweqxh-150x150.jpg&amp;site=cinemathek&amp;title=Star%20Trek%3a%20Raumschiff%20Voyager%20(1995)&amp;trumb=%2fstorage%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsearch.png&quot;,return)
- 
 #EXTINF:-1 tvg-name="ORF 1 HD ²" tvg-id="ORF1.at" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png",ORF 1 HD ²
 https://s6.hopslan.com/orf1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="ORF 1 HD ³" tvg-id="ORF1.at" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png",ORF 1 HD ³
@@ -134,4 +131,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznfast-lgde/playlist.m
 #EXTINF:-1 tvg-name="DAZN Rise (DE)" tvg-id="" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dazn-rise.jpg",DAZN Rise
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznrise-lgde/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Star Trek: Raumschiff Voyager (1995)" tvg-name="" tvg-logo="https://cinemathek.net/wp-content/uploads/2023/10/gNS5tRSG3UlXodCxznKKOKweqxh-150x150.jpg group-title="Sendungstipp",Star Trek: Raumschiff Voyager
+#KODIPROP:plugin.video.xstream
+https://cinemathek.net/serien/star-trek-raumschiff-voyager/&amp;function=showSeasons&amp;sDesc=Star%20Trek%20-%20Raumschiff%20Voyager%20ist%20die%20vierte%20im%20Star-Trek-Universum%20angesiedelte%20Fernsehserie.%20Die%20Serie%20handelt%20von%20der%20Reise%20der%20USS%20Voyager%2c%20die%20am%20anderen%20Ende%20der%20Galaxie%20gestrandet&amp;sName=Star%20Trek:%20Raumschiff%20Voyager&amp;sThumbnail=https://cinemathek.net/wp-content/uploads/2023/10/gNS5tRSG3UlXodCxznKKOKweqxh-150x150.jpg&amp;site=cinemathek&amp;title=Star%20Trek:%20Raumschiff%20Voyager%20(1995)&amp;trumb=/storage/.kodi/addons/plugin.video.xstream/resources/art/search.png&quot;,return)
 
+
+ 
