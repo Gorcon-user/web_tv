@@ -43,7 +43,7 @@ https://s6.hopslan.com/srf2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="SRF info HD ²" tvg-id="SRFinfo.ch" tvg-type="live" group-title="Filme" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-info.png",SRF info HD ¹
 https://s6.hopslan.com/srfinfo/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="DasErste.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
+#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://mcdn.daserste.de/daserste/dash/manifest.mpd
@@ -83,7 +83,7 @@ http://tagesschau.akamaized.net/dash/live/2020098/tagesschau/tagesschau_3/tagess
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://kikageodash.akamaized.net/dash/live/2022694/livetvkika_de/manifest.mpd
-#EXTINF:-1 tvg-name="WDR HD" tvg-id="WDRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR HD
+#EXTINF:-1 tvg-name="WDR HD" tvg-id="WDR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://wdrfs247.akamaized.net/dash/live/2016702/wdrfs247_geo/dash.mpd
@@ -91,14 +91,10 @@ http://wdrfs247.akamaized.net/dash/live/2016702/wdrfs247_geo/dash.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://ndrfs.akamaized.net/dash/live/2020094/ndrfs-ebuttd/ndrfs-ebuttd-nds.mpd
-#EXTINF:-1 tvg-name="BR Fernsehen Süd HD" tvg-id="BRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Fernsehen Süd HD
+#EXTINF:-1 tvg-name="BR Fernsehen Süd HD" tvg-id="BR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Fernsehen Süd HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://bfrsueddash.akamaized.net/dash/live/2016970/bfs_sued_de/dvbt2/manifest.mpd
-#EXTINF:-1 tvg-name="SWR Baden-Württemberg HD " tvg-id="SWRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR Baden-Württemberg HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-http://swrbw-dash.akamaized.net/dash/live/2018674/swrbwd/manifest.mpd
 #EXTINF:-1 tvg-name="SR Fernsehen HD" tvg-id="SRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png",SR Fernsehen HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -107,7 +103,7 @@ http://swrsrfs-dash.akamaized.net/dash/live/2018687/srfsgeo/dash.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://hrdash.akamaized.net/dash/live/2024543/hrdash/manifest.mpd
-#EXTINF:-1 tvg-name="MDR Sachsen-Anhalt HD" tvg-id="MDRS-Anhalt.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",MDR Sachsen-Anhalt HD
+#EXTINF:-1 tvg-name="MDR Sachsen-Anhalt HD" tvg-id="MDRSachsen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",MDR Sachsen-Anhalt HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://mdrtvsadash.akamaized.net/dash/live/2094116/mdrtvsa/dash.mpd
@@ -115,21 +111,16 @@ http://mdrtvsadash.akamaized.net/dash/live/2094116/mdrtvsa/dash.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://rbb-dash-berlin.akamaized.net/dash/live/2017826/rbb_berlin/manifest.mpd
-#EXTINF:-1 tvg-name="Radio Bremen TV HD" tvg-id="RadioBremen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbtv.png",Radio Bremen TV HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://rbdashlive.akamaized.net/dash/live/2020436/rbfs/dash.mpd
+
+#EXTINF:-1 tvg-id="euronews.de" tvg-name="EuronewsDE.nws" tvg-type="live" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/euronews.png",Euronews
+https://64ae17e353a144d38d09cb7530008fb7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_EuroNewsLive/playlist.m3u8
+#EXTINF:-1 tvg-name="BILD HD" tvg-id="Bild" group-title="Regional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/BILD_TV_Logo_August_2021.png/544px-BILD_TV_Logo_August_2021.png",BILD HD
+https://bild.personalstream.tv/v1/master.m3u8
+
+#EXTINF:-1 tvg-name="DAZN Fast (DE)" tvg-id="" group-title="Sport" tvg-logo="https://www.dslweb.de/public/resources/images/logos/sender/dazn-fast-hd-logo.svg",DAZN Fast
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznfast-lgde/playlist.m3u8
+
+#EXTINF:-1 tvg-name="DAZN Rise (DE)" tvg-id="" group-title="Sport" tvg-logo="https://www.dslweb.de/public/resources/images/logos/sender/dazn-rise-hd-logo.svg",DAZN Rise
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznrise-lgde/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Eurosport 1 DE" tvg-name="EUROSPORT 1 H265" group-title="Sport" tvg-logo="http://mdstream.net:8080/images/311af97d1561f7130762f5761406ec91.png" group-title="DE - SPORT",DSP: EUROSPORT 1 H265
-http://iptvworld.ml:2095/x2hTndwrd9/r7R6ET97/19521
-#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="EUROSPORT 2 H265" group-title="Sport" tvg-logo="http://mdstream.net:8080/images/d88fd2a5f9715aa0e412d56b66f56215.png" group-title="DE - SPORT",DSP: EUROSPORT 2 H265
-http://iptvworld.ml:2095/x2hTndwrd9/r7R6ET97/19522
-
-#EXTINF:-1 tvg-id="Eurosport 1 DE" tvg-name="DSP: EUROSPORT 1 H265" group-title="Sport" tvg-logo="http://mdstream.net:8080/images/311af97d1561f7130762f5761406ec91.png" group-title="DE - SPORT",DSP: EUROSPORT 1 H265
-http://mdstream.net:8080/Mert_Degisim/qVWog40EPP/17601
-#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="DSP: EUROSPORT 2 H265" group-title="Sport" tvg-logo="http://mdstream.net:8080/images/d88fd2a5f9715aa0e412d56b66f56215.png" group-title="DE - SPORT",DSP: EUROSPORT 2 H265
-http://mdstream.net:8080/Mert_Degisim/qVWog40EPP/17602
-
-#EXTINF:-1 tvg-id="euronews.de" tvg-name="euronews.de" tvg-type="live" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/euronews.de.png",Euronews
-https://tv4.live/api/stream/4625@visitorweb.net/454252417/livetv.epg/euronews.de.m3u8
