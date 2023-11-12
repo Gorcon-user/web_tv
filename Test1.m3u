@@ -9,4 +9,9 @@ plugin://plugin.video.simplitv/?mode=play&channel=orf2
 plugin://plugin.video.simplitv/?mode=play&channel=orf1
 
 #EXTINF:-1 tvg-chno="2" tvg-name="ORF 2*" tvg-id="ORF2.at" tvg-shift="0" radio="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/Star_Trek_VOY_logo.svg.png" group-title="SIMPLITV",Voyager
-plugin://plugin.video.simplitv/?mode=play&channel=orf2
+plugin://plugin.video.xstream/
+https://cinemathek.net/serien/star-trek-raumschiff-voyager/&;function=showSeasons
+
+#EXTINF:-1 tvg-chno="2" tvg-name="ORF 2*" tvg-id="ORF2.at" tvg-shift="0" radio="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/Star_Trek_VOY_logo.png" group-title="SIMPLITV",Voyager
+plugin://plugin.video.xstream/function=showSeasons
+https://cinemathek.net/serien/star-trek-raumschiff-voyager/
