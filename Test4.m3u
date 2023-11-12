@@ -116,12 +116,12 @@ https://64ae17e353a144d38d09cb7530008fb7.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-name="BILD HD" tvg-id="Bild" group-title="Nachrichten" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/BILD_TV_Logo_August_2021.png/544px-BILD_TV_Logo_August_2021.png",BILD HD
 https://bild.personalstream.tv/v1/master.m3u8
 
-#EXTINF:-1 tvg-name="DAZN Fast (DE)" tvg-id="" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dazn-fast.jpg",DAZN Fast
+#EXTINF:-1 tvg-name="DAZN Fast (DE)" tvg-id="" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/dazn-fast.jpg",DAZN Fast
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznfast-lgde/playlist.m3u8
 
-#EXTINF:-1 tvg-name="DAZN Rise (DE)" tvg-id="" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dazn-rise.jpg",DAZN Rise
+#EXTINF:-1 tvg-name="DAZN Rise (DE)" tvg-id="" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/dazn-rise.jpg",DAZN Rise
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznrise-lgde/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Star Trek: Raumschiff Voyager (1995)" tvg-name="Raumschiff Voyager (1995)" tvg-logo="https://cinemathek.net/wp-content/uploads/2023/10/gNS5tRSG3UlXodCxznKKOKweqxh-150x150.jpg group-title="Sendungstipp",Star Trek: Raumschiff Voyager
+#EXTINF:-1 tvg-id="Star Trek: Raumschiff Voyager (1995)" tvg-name="Raumschiff Voyager (1995)" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/Voyager.jpg group-title="Sendungstipp",Star Trek: Raumschiff Voyager
 #KODIPROP:plugin.video.xstream
 https://cinemathek.net/serien/star-trek-raumschiff-voyager/&;function=showSeasons
