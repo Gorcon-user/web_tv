@@ -122,6 +122,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznfast-lgde/playlist.m
 #EXTINF:-1 tvg-name="DAZN Rise (DE)" tvg-id="" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/dazn-rise.png",DAZN Rise
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznrise-lgde/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Star Trek: Raumschiff Voyager (1995)" tvg-name="Raumschiff Voyager (1995)" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/Star_Trek_VOY_logo.svg.png group-title="Sendungstipp",Star Trek: Raumschiff Voyager
+#EXTINF:-1 tvg-id="Star Trek: Raumschiff Voyager (1995)" tvg-name="Raumschiff Voyager (1995)" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/Star_Trek_VOY_logo.png group-title="Sendungstipp",Star Trek: Raumschiff Voyager
 #KODIPROP:plugin.video.xstream
 https://cinemathek.net/serien/star-trek-raumschiff-voyager/&;function=showSeasons
