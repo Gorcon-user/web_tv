@@ -1,9 +1,9 @@
-#EXTINF:-1 tvg-id="Star Trek: Raumschiff Voyager (1995)" tvg-name="Raumschiff Voyager (1995)" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-1.png group-title="Sendungstipp",Star Trek: Raumschiff Voyager
+#EXTINF:-1 tvg-id="Star Trek: Raumschiff Voyager (1995)" tvg-name="Raumschiff Voyager (1995)" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-1.png" group-title="Sendungstipp",Star Trek: Raumschiff Voyager
 #KODIPROP:plugin.video.xstream
 https://cinemathek.net/serien/star-trek-raumschiff-voyager/&;function=showSeasons
 
 #EXTINF:-1 tvg-chno="2" tvg-name="ORF 2*" tvg-id="ORF2.at" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/orf2-hd-wei-f-white.png" group-title="SIMPLITV",ORF 2
 plugin://plugin.video.simplitv/?mode=play&channel=orf2
 
-#EXTINF:-1 tvg-id="Star Trek: Raumschiff Voyager (1995)" tvg-name="Raumschiff Voyager (1995)" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-1.png group-title="Sendungstipp",Star Trek: Raumschiff Voyager
+#EXTINF:-1 tvg-id="Star Trek: Raumschiff Voyager (1995)" tvg-name="Raumschiff Voyager (1995)" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-1.png" group-title="Sendungstipp",Star Trek: Raumschiff Voyager
 plugin://plugin.video.simplitv/?mode=play&channel=orf1
