@@ -192,41 +192,41 @@ rtp://@239.2.24.27:8208
  https://streams.90s90s.de/xmas/mp3-192/streams.90s90s.de
  #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="90ger",RADIONAME    
 
-#EXTINF:-1 tvg-chno="5" tvg-name="Das Erste HD*" tvg-id="Eurosport1.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/ard-hd-wei-f-white.png" group-title="SIMPLITV",Das Erste HD*
+#EXTINF:-1 tvg-chno="5" tvg-name="Das Erste HD*" tvg-id="ARD.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/ard-hd-wei-f-white.png" group-title="SIMPLITV",Das Erste HD*
 plugin://plugin.video.simplitv/?mode=play&channel=ard-hd
-#EXTINF:-1 tvg-chno="5" tvg-name="NDR HD*" tvg-id="Eurosport1.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/ndr-hd-wei-f-white.png" group-title="SIMPLITV",NDR HD*
+#EXTINF:-1 tvg-chno="5" tvg-name="NDR HD*" tvg-id="ndrmv.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/ndr-hd-wei-f-white.png" group-title="SIMPLITV",NDR HD*
 plugin://plugin.video.simplitv/?mode=play&channel=ndr
-#EXTINF:-1 tvg-chno="5" tvg-name="MDR Sachsen HD*" tvg-id="Eurosport1.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/mdr-weiss-kopie.png" group-title="SIMPLITV",MDR Sachsen HD*
+#EXTINF:-1 tvg-chno="5" tvg-name="MDR Sachsen HD*" tvg-id="MDRSachsen.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/mdr-weiss-kopie.png" group-title="SIMPLITV",MDR Sachsen HD*
 plugin://plugin.video.simplitv/?mode=play&channel=mdr-sachsen-hd
-#EXTINF:-1 tvg-chno="5" tvg-name="rbb Berlin HD*" tvg-id="Eurosport1.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/rbb-weiss.png" group-title="SIMPLITV",rbb Berlin HD*
+#EXTINF:-1 tvg-chno="5" tvg-name="rbb Berlin HD*" tvg-id="rbbBerlin.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/rbb-weiss.png" group-title="SIMPLITV",rbb Berlin HD*
 plugin://plugin.video.simplitv/?mode=play&channel=rbb-berlin-hd
-#EXTINF:-1 tvg-chno="5" tvg-name="ARTE HD*" tvg-id="Eurosport1.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/arte-hd-wei-f-white.png" group-title="SIMPLITV",ARTE HD*
+#EXTINF:-1 tvg-chno="5" tvg-name="ARTE HD*" tvg-id="ARTE.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/arte-hd-wei-f-white.png" group-title="SIMPLITV",ARTE HD*
 plugin://plugin.video.simplitv/?mode=play&channel=arte
-#EXTINF:-1 tvg-chno="5" tvg-name="ONE HD*" tvg-id="Eurosport1.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/one-hd-wei-f-white.png" group-title="SIMPLITV",ONE HD*
+#EXTINF:-1 tvg-chno="5" tvg-name="ONE HD*" tvg-id="One.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/one-hd-wei-f-white.png" group-title="SIMPLITV",ONE HD*
 plugin://plugin.video.simplitv/?mode=play&channel=one
-#EXTINF:-1 tvg-chno="5" tvg-name="PHOENIX HD*" tvg-id="Eurosport1.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/phoenix-wei-f-white.png" group-title="SIMPLITV",PHOENIX HD*
+#EXTINF:-1 tvg-chno="5" tvg-name="PHOENIX HD*" tvg-id="phoenix.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/phoenix-wei-f-white.png" group-title="SIMPLITV",PHOENIX HD*
 plugin://plugin.video.simplitv/?mode=play&channel=phoenix
-#EXTINF:-1 tvg-chno="5" tvg-name="hr-fernsehen HD*" tvg-id="Eurosport1.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/hr-weiss.png" group-title="SIMPLITV",hr-fernsehen HD*
+#EXTINF:-1 tvg-chno="5" tvg-name="hr-fernsehen HD*" tvg-id="HR.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/hr-weiss.png" group-title="SIMPLITV",hr-fernsehen HD*
 plugin://plugin.video.simplitv/?mode=play&channel=hr-fernsehen-hd
-#EXTINF:-1 tvg-chno="5" tvg-name="SWR BW HD*" tvg-id="Eurosport1.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/swr-hd-wei-f.png" group-title="SIMPLITV",SWR BW HD*
+#EXTINF:-1 tvg-chno="5" tvg-name="SWR BW HD*" tvg-id="SRFernsehen.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/swr-hd-wei-f.png" group-title="SIMPLITV",SWR BW HD*
 plugin://plugin.video.simplitv/?mode=play&channel=swr-bw-hd
-#EXTINF:-1 tvg-chno="5" tvg-name="WDR HD Köln*" tvg-id="Eurosport1.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/wdr-fernsehen-hd-sw.png" group-title="SIMPLITV",WDR HD Köln*
+#EXTINF:-1 tvg-chno="5" tvg-name="WDR HD Köln*" tvg-id="WDR.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/wdr-fernsehen-hd-sw.png" group-title="SIMPLITV",WDR HD Köln*
 plugin://plugin.video.simplitv/?mode=play&channel=wdr-k%C3%B6ln-hd
-#EXTINF:-1 tvg-chno="5" tvg-name="BR Fernsehen Süd HD*" tvg-id="Eurosport1.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/br-hd-wei-f-white.png" group-title="SIMPLITV",BR Fernsehen Süd HD*
+#EXTINF:-1 tvg-chno="5" tvg-name="BR Fernsehen Süd HD*" tvg-id="BR.dee" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/br-hd-wei-f-white.png" group-title="SIMPLITV",BR Fernsehen Süd HD*
 plugin://plugin.video.simplitv/?mode=play&channel=bfs
-#EXTINF:-1 tvg-chno="5" tvg-name="tagesschau 24 HD*" tvg-id="Eurosport1.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/tagesschau24-hd-sw.png" group-title="SIMPLITV",tagesschau 24 HD*
+#EXTINF:-1 tvg-chno="5" tvg-name="tagesschau 24 HD*" tvg-id="tagesschau24.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/tagesschau24-hd-sw.png" group-title="SIMPLITV",tagesschau 24 HD*
 plugin://plugin.video.simplitv/?mode=play&channel=tagesschau-24-hd
-#EXTINF:-1 tvg-chno="5" tvg-name="ARD Alpha HD*" tvg-id="Eurosport1.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/ard-alpha-hd-wei-f.png" group-title="SIMPLITV",ARD Alpha HD*
+#EXTINF:-1 tvg-chno="5" tvg-name="ARD Alpha HD*" tvg-id="ARD-alpha.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/ard-alpha-hd-wei-f.png" group-title="SIMPLITV",ARD Alpha HD*
 plugin://plugin.video.simplitv/?mode=play&channel=ard-alpha-hd
-#EXTINF:-1 tvg-chno="5" tvg-name="ZDF HD*" tvg-id="Eurosport1.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/zdf-hd-weiss.png" group-title="SIMPLITV",ZDF HD*
+#EXTINF:-1 tvg-chno="5" tvg-name="ZDF HD*" tvg-id="ZDF.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/zdf-hd-weiss.png" group-title="SIMPLITV",ZDF HD*
 plugin://plugin.video.simplitv/?mode=play&channel=zdf-hd
-#EXTINF:-1 tvg-chno="5" tvg-name="3sat HD*" tvg-id="Eurosport1.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/3sat-hd-wei-f-white.png" group-title="SIMPLITV",3sat HD*
+#EXTINF:-1 tvg-chno="5" tvg-name="3sat HD*" tvg-id="3sat.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/3sat-hd-wei-f-white.png" group-title="SIMPLITV",3sat HD*
 plugin://plugin.video.simplitv/?mode=play&channel=3sat
-#EXTINF:-1 tvg-chno="5" tvg-name="ZDFneo HD*" tvg-id="Eurosport1.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/zdf-neo-hd-wei-f-white.png" group-title="SIMPLITV",ZDFneo HD*
+#EXTINF:-1 tvg-chno="5" tvg-name="ZDFneo HD*" tvg-id="ZDFneo.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/zdf-neo-hd-wei-f-white.png" group-title="SIMPLITV",ZDFneo HD*
 plugin://plugin.video.simplitv/?mode=play&channel=zdfneo
-#EXTINF:-1 tvg-chno="5" tvg-name="ZDFinfo HD*" tvg-id="Eurosport1.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/zdf-info-hd-wei-f-white.png" group-title="SIMPLITV",ZDFinfo HD*
+#EXTINF:-1 tvg-chno="5" tvg-name="ZDFinfo HD*" tvg-id="ZDFinfo.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/zdf-info-hd-wei-f-white.png" group-title="SIMPLITV",ZDFinfo HD*
 plugin://plugin.video.simplitv/?mode=play&channel=zdfinfo-hd
-#EXTINF:-1 tvg-chno="5" tvg-name="KiKA HD*" tvg-id="Eurosport1.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/kika-hd-wei-f-white.png" group-title="SIMPLITV",KiKA HD*
+#EXTINF:-1 tvg-chno="5" tvg-name="KiKA HD*" tvg-id="Kika.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/kika-hd-wei-f-white.png" group-title="SIMPLITV",KiKA HD*
 plugin://plugin.video.simplitv/?mode=play&channel=kika-hd
 #EXTINF:-1 tvg-chno="5" tvg-name="RTL HD Austria*" tvg-id="Eurosport1.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/rtl-hd-wei-f-white.png" group-title="SIMPLITV",RTL HD Austria
 plugin://plugin.video.simplitv/?mode=play&channel=rtlaustriahd
