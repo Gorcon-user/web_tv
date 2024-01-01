@@ -213,7 +213,7 @@ plugin://plugin.video.simplitv/?mode=play&channel=hr-fernsehen-hd
 plugin://plugin.video.simplitv/?mode=play&channel=swr-bw-hd
 #EXTINF:-1 tvg-chno="5" tvg-name="WDR HD Köln*" tvg-id="WDR.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/wdr-fernsehen-hd-sw.png" group-title="SIMPLITV",WDR HD Köln*
 plugin://plugin.video.simplitv/?mode=play&channel=wdr-k%C3%B6ln-hd
-#EXTINF:-1 tvg-chno="5" tvg-name="BR Fernsehen Süd HD*" tvg-id="BR.dee" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/br-hd-wei-f-white.png" group-title="SIMPLITV",BR Fernsehen Süd HD*
+#EXTINF:-1 tvg-chno="5" tvg-name="BR Fernsehen Süd HD*" tvg-id="BR.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/br-hd-wei-f-white.png" group-title="SIMPLITV",BR Fernsehen Süd HD*
 plugin://plugin.video.simplitv/?mode=play&channel=bfs
 #EXTINF:-1 tvg-chno="5" tvg-name="tagesschau 24 HD*" tvg-id="tagesschau24.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/tagesschau24-hd-sw.png" group-title="SIMPLITV",tagesschau 24 HD*
 plugin://plugin.video.simplitv/?mode=play&channel=tagesschau-24-hd
@@ -221,7 +221,7 @@ plugin://plugin.video.simplitv/?mode=play&channel=tagesschau-24-hd
 plugin://plugin.video.simplitv/?mode=play&channel=ard-alpha-hd
 #EXTINF:-1 tvg-chno="5" tvg-name="ZDF HD*" tvg-id="ZDF.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/zdf-hd-weiss.png" group-title="SIMPLITV",ZDF HD*
 plugin://plugin.video.simplitv/?mode=play&channel=zdf-hd
-#EXTINF:-1 tvg-chno="5" tvg-name="3sat HD*" tvg-id="3sat.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/3sat-hd-wei-f-white.png" group-title="SIMPLITV",3sat HD*
+#EXTINF:-1 tvg-chno="5" tvg-name="3sat HD*" tvg-id="3sat.ch" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/3sat-hd-wei-f-white.png" group-title="SIMPLITV",3sat HD*
 plugin://plugin.video.simplitv/?mode=play&channel=3sat
 #EXTINF:-1 tvg-chno="5" tvg-name="ZDFneo HD*" tvg-id="ZDFneo.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/zdf-neo-hd-wei-f-white.png" group-title="SIMPLITV",ZDFneo HD*
 plugin://plugin.video.simplitv/?mode=play&channel=zdfneo
