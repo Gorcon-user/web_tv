@@ -2,3 +2,5 @@
 https://mediandr-a.akamaihd.net/progressive/2022/0915/TV-20220915-2049-3700.hd.mp4	
 #EXTINF:-1 tvg-id="NDR" tvg-name="" group-title="Sendungstipp",arte Der Ökothriller Soylent green - Alarmstufe rot aus Hollywood
 https://arteptweb-a.akamaihd.net/am/ptweb/106000/106600/106690-000-A_SQ_0_VA-STA_07080001_MP4-2200_AMM-PTWEB_1taZk10oW3T.mp4
+#EXTINF:-1 tvg-chno="5" tvg-name="Handball EM Sportschau*" tvg-id="" tvg-shift="0" radio="" tvg-logo="https://pbs.twimg.com/profile_images/1531193870968553472/PHVIaTep_400x400.jpg" group-title="Sport",Handball EM Sportschau*
+https://wdrevent.akamaized.net/hls/live/2020359/wdr_msl4_wdrevent9/master3328.m3u8
