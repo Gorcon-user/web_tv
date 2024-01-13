@@ -304,11 +304,11 @@ plugin://plugin.video.simplitv/?mode=play&channel=mtvaustriahd
 plugin://plugin.video.simplitv/?mode=play&channel=deluxemusicaustriahd
 #EXTINF:-1 tvg-chno="5" tvg-name="bibelTV HD*" tvg-id="???" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/bibeltv-sw.png" group-title="SIMPLITV",bibelTV HD*
 plugin://plugin.video.simplitv/?mode=play&channel=bibeltv-hd
-#EXTINF:-1 tvg-chno="5" tvg-name="Playboy TV*" tvg-id="???" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/dorcel-2022-playboytveurope-logo-blanc-transparent-kopie.png" group-title="SIMPLITV",Playboy TV*
+#EXTINF:-1 tvg-chno="5" tvg-name="Playboy TV*" tvg-id="???" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/dorcel-2022-playboytveurope-logo-blanc-transparent-kopie.png" group-title="SIMPLITV;Porno",Playboy TV*
 plugin://plugin.video.simplitv/?mode=play&channel=playboy-tv
-#EXTINF:-1 tvg-chno="5" tvg-name="Hustler TV SD*" tvg-id="???" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/hustler-tv-sw-kopie.png" group-title="SIMPLITV",Hustler TV SD*
+#EXTINF:-1 tvg-chno="5" tvg-name="Hustler TV SD*" tvg-id="???" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/hustler-tv-sw-kopie.png" group-title="SIMPLITV;Porno",Hustler TV SD*
 plugin://plugin.video.simplitv/?mode=play&channel=hustler-tv
-#EXTINF:-1 tvg-chno="5" tvg-name="Dorcel TV" tumb="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/dorcel.png" group-title="SIMPLITV",Dorcel TV
+#EXTINF:-1 tvg-chno="5" tvg-name="Dorcel TV" tumb="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/dorcel.png" group-title="SIMPLITV;Porno",Dorcel TV
 plugin://plugin.video.simplitv/?mode=play&channel=dorcel-tv-hd
 
 #EXTINF:-1 tvg-chno="5" tvg-name="Handball EM ARD Sportschau" tvg-id="" tvg-shift="0" radio="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sportschau.png" group-title="Sport",Handball EM ARD Sportschau
