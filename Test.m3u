@@ -8,3 +8,6 @@ https://wdrevent.akamaized.net/hls/live/2020359/wdr_msl4_wdrevent9/master3328.m3
 
 #EXTINF:-1 tvg-name="SRF 1 HD ³" tvg-id="SRF1.ch" tvg-type="live" group-title="ORF und SRF" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-1.png" group-title="Sendungstipp",SRF 1 HD ³
 http://185.236.229.31:9981/play/a00h 
+
+#EXTINF:-1 tvg-chno="5" tvg-name="Eurosport 1 HD*" tvg-id="Eurosport1.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/eurosport-1-hd-wei-f-white.png" group-title="SIMPLITV",Eurosport 1 HD
+plugin://plugin.video.simplitv/?mode=play&channel=eurosport1austriahd
