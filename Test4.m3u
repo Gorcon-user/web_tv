@@ -319,6 +319,7 @@ https://wdrevent.akamaized.net/hls/live/2020357/wdr_msl4_wdrevent7/master3328.m3
 https://wdrevent.akamaized.net/hls/live/2020358/wdr_msl4_wdrevent8/master3328.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-name="ARD Event 2 HD" tvg-id="" tvg-shift="0" radio="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sportschau.png" group-title="Sport",ARD Event 2 HD*
 https://ardevent2.akamaized.net/hls/live/681512/ardevent2_geo/master.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-name="Handball EM ZDF Sportstudio" tvg-id="" tvg-shift="0" radio="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sportstudio.png" group-title="Sport",Handball EM ZDF Sportstudio
+#EXTINF:-1 tvg-chno="5" tvg-name="Handball EM ZDF Sportstudio 1" tvg-id="" tvg-shift="0" radio="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sportstudio.png" group-title="Sport",Handball EM ZDF Sportstudio
 https://zdf-hls-05.akamaized.net/hls/live/2016300/de/veryhigh/master.m3u8
-			
+#EXTINF:-1 tvg-chno="5" tvg-name="Handball EM ZDF Sportstudio 2" tvg-id="" tvg-shift="0" radio="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sportstudio.png" group-title="Sport",Handball EM ZDF Sportstudio
+https://zdf-hls-09.akamaized.net/hls/live/2016304/de/veryhigh/master.m3u8		
