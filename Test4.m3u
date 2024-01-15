@@ -322,4 +322,4 @@ https://ardevent2.akamaized.net/hls/live/681512/ardevent2_geo/master.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-name="Handball EM ZDF Sportstudio 1" tvg-id="" tvg-shift="0" radio="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sportstudio.png" group-title="Sport",Handball EM ZDF Sportstudio
 https://zdf-hls-05.akamaized.net/hls/live/2016300/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-name="Handball EM ZDF Sportstudio 2" tvg-id="" tvg-shift="0" radio="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sportstudio.png" group-title="Sport",Handball EM ZDF Sportstudio
-https://zdf-hls-09.akamaized.net/hls/live/2016304/de/veryhigh/master.m3u8		
+https://zdf-hls-03.akamaized.net/hls/live/2016213/de/veryhigh/master.m3u8		
