@@ -26,11 +26,7 @@ https://s6.hopslan.com/orf3/tracks-v1a1/mono.m3u8?token=4e321369230a8b6eea5339ba
 http://80.252.37.194:5000/udp/233.233.233.2:12000                  
        
 #EXTINF:-1 tvg-chno="x""SRF info HD ²" tvg-id="SRFinfo.ch" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-info.png" group-title="ORF und SRF",SRF info HD ²
-http://154.54.220.67:34780/play/a05d
-        
-#EXTINF:-1 tvg-chno="x""SRF info HD ¹" tvg-id="SRFinfo.ch" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-info.png" group-title="ORF und SRF",SRF info ¹
-https://s6.hopslan.com/srfinfo/tracks-v1a1/mono.m3u8?token=c2eb5f946cf6586974a6931a7a75254f19d47beb-ee646450dacd65e78eb0269dc3d6c0ff-1705235522-1705224722               
-
+http://154.54.220.67:34780/play/a05d            
 #EXTINF:-1 tvg-chno="x""Nasa UHD" tvg-id="" tvg-type="live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logo-NasaTV-UHD.png" group-title="Test;UHD",Nasa UHD
 http://154.54.220.67:34780/play/a02q
 #EXTINF:-1 tvg-chno="x""Loupe 4K (2160p)" tvg-id="" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/Loupe.png" group-title="Test;UHD",Loupe 4K (2160p)
@@ -124,9 +120,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznrise-lgde/playlist.m
 #EXTINF:-1 tvg-id="Star Trek: Raumschiff Voyager (1995)" tvg-name="Raumschiff Voyager (1995)" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/Star_Trek_VOY_logo.svg.png group-title="Sendungstipp",Star Trek: Raumschiff Voyager
 #KODIPROP:plugin.video.xstream
 https://cinemathek.net/serien/star-trek-raumschiff-voyager/&;function=showSeasons
-
-#EXTINF:-1 tvg-chno="x""SRF 1 HD ²" tvg-id="" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png" group-title="Filme",SRF 1 HD Test²
-rtp://@239.2.24.27:8208
     
  #EXTINF:-1 tvg-id="" tvg-name="80s80s - Maxis" tvg-shift="" radio="true" tvg-logo="" group-title="80ger",80s80s - Maxis
  https://streams.80s80s.de/maxis/mp3-192/streams.80s80s.de
