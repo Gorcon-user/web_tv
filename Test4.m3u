@@ -117,9 +117,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznfast-lgde/playlist.m
 #EXTINF:-1 tvg-chno="x""DAZN Rise (DE)" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/dazn-rise.png" group-title="Sport",DAZN Rise
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznrise-lgde/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Star Trek: Raumschiff Voyager (1995)" tvg-name="Raumschiff Voyager (1995)" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/Star_Trek_VOY_logo.svg.png group-title="Sendungstipp",Star Trek: Raumschiff Voyager
-#KODIPROP:plugin.video.xstream
-https://cinemathek.net/serien/star-trek-raumschiff-voyager/&;function=showSeasons
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1734879,RESOLUTION=1920x1080,FRAME-RATE=23.974,CODECS="avc1.640028,mp4a.40.2",VIDEO-RANGE=SDR
+index-v1-a1.m3u8?t=h-fsYDXD1Yn2vxAFsLx07vI69vVFVXhmU1WNKXAJxlE&s=1712591682&e=21600&f=849445&srv=srv16&i=89.245&sp=0&p1=srv16&p2=srv16
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=80470,RESOLUTION=1920x1080,CODECS="avc1.640028",URI="iframes-v1-a1.m3u8?t=h-fsYDXD1Yn2vxAFsLx07vI69vVFVXhmU1WNKXAJxlE&s=1712591682&e=21600&f=849445&srv=srv16&i=89.245&sp=0&p1=srv16&p2=srv16",VIDEO-RANGE=SDR
     
  #EXTINF:-1 tvg-id="" tvg-name="80s80s - Maxis" tvg-shift="" radio="true" tvg-logo="" group-title="80ger",80s80s - Maxis
  https://streams.80s80s.de/maxis/mp3-192/streams.80s80s.de
