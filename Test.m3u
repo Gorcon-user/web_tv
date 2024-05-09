@@ -1,13 +1,204 @@
-#EXTINF:-1 tvg-id="NDR" tvg-name="" group-title="Sendungstipp",NDR - DAS vom 16.09.2022
-https://mediandr-a.akamaihd.net/progressive/2022/0915/TV-20220915-2049-3700.hd.mp4	
-#EXTINF:-1 tvg-id="NDR" tvg-name="" group-title="Sendungstipp",arte Der Ökothriller Soylent green - Alarmstufe rot aus Hollywood
-https://arteptweb-a.akamaihd.net/am/ptweb/106000/106600/106690-000-A_SQ_0_VA-STA_07080001_MP4-2200_AMM-PTWEB_1taZk10oW3T.mp4
-#EXTINF:-1 tvg-chno="5" tvg-name="Handball EM Sportschau*" tvg-id="" tvg-shift="0" radio="" tvg-logo="https://pbs.twimg.com/profile_images/1531193870968553472/PHVIaTep_400x400.jpg" group-title="Sport",Handball EM Sportschau*
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-name="ORF 1*" tvg-id="ORF1.at" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/orf1-hd-wei-f-dark.png" group-title="SIMPLITV",ORF 1
+plugin://plugin.video.simplitv/?mode=play&channel=orf1
+#EXTINF:-1 tvg-chno="2" tvg-name="ORF 2*" tvg-id="ORF2.at" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/orf2-hd-wei-f-white.png" group-title="SIMPLITV",ORF 2
+plugin://plugin.video.simplitv/?mode=play&channel=orf2
+#EXTINF:-1 tvg-chno="3" tvg-name="ORF III*" tvg-id="ORF3.at" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/orf3-hd-wei-f-white.png" group-title="SIMPLITV",ORF III
+plugin://plugin.video.simplitv/?mode=play&channel=orf-iii
+#EXTINF:-1 tvg-chno="4" tvg-name="ORF Sport+*" tvg-id="ORF Sport +" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/orf-sport-plus-hd-wei-f-white.png" group-title="SIMPLITV",ORF Sport+
+plugin://plugin.video.simplitv/?mode=play&channel=orf-sport-plus
+#EXTINF:-1 tvg-chno="5" tvg-name="ServusTV AT*" tvg-id="ServusHD.ch" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/servustv-hd-wei-f-white.png" group-title="SIMPLITV",ServusTV AT
+plugin://plugin.video.simplitv/?mode=play&channel=servustv-austria
+
+
+
+#EXTINF:-1 tvg-chno="x""ORF 1 HD ²" tvg-id="ORF1.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png" group-title="ORF und SRF",ORF 1 HD ²
+https://s6.hopslan.com/orfx1/index.m3u8?token=fad706771b956eac985856dbb9302f55786b1b3b-890288b08152d8a1486f81c6bcc8f8d6-1705234886-1705224086
+#EXTINF:-1 tvg-chno="x""ORF 1 HD ³" tvg-id="ORF1.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png" group-title="ORF und SRF",ORF 1 HD ³
+http://195.211.27.149:8887/8271/index.m3u8?token=test
+#EXTINF:-1 tvg-chno="x""ORF 2 HD ²" tvg-id="ORF2.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/ordf-2.png"  group-title="ORF und SRF",ORF 2 HD ²
+https://s6.hopslan.com/orf2/tracks-v1a1/mono.m3u8?token=427201a73326eaab45d1e16809854143a4d9b6a9-9867d87da88e5f6edc9155f9309cdc4f-1705234971-1705224171
+#EXTINF:-1 tvg-chno="x""ORF 2 HD ³" tvg-id="ORF2.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/ordf-2.png"  group-title="ORF und SRF",ORF 2 HD ²
+http://80.252.37.194:5000/udp/233.233.233.1:12000
+#EXTINF:-1 tvg-chno="x""ORF III HD ²" tvg-id="ORF3.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-III.png" group-title="ORF und SRF",ORF III HD ¹
+https://s6.hopslan.com/orf3/tracks-v1a1/mono.m3u8?token=4e321369230a8b6eea5339ba7df49474891080b3-d150c50a560b8e1995b13f0a5b2a85c9-1705235089-1705224289
+#EXTINF:-1 tvg-chno="x""ORF Sport+ HD ¹" tvg-id="ORF Sport +" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-sport-+.png" group-title="ORF und SRF;Sport",ORF Sport+ HD ¹
+http://80.252.37.194:5000/udp/233.233.233.2:12000                  
+       
+#EXTINF:-1 tvg-chno="x""SRF info HD ²" tvg-id="SRFinfo.ch" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-info.png" group-title="ORF und SRF",SRF info HD ²
+http://154.54.220.67:34780/play/a05d            
+#EXTINF:-1 tvg-chno="x""Nasa UHD" tvg-id="" tvg-type="live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logo-NasaTV-UHD.png" group-title="Test;UHD",Nasa UHD
+http://154.54.220.67:34780/play/a02q
+#EXTINF:-1 tvg-chno="x""Loupe 4K (2160p)" tvg-id="" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/Loupe.png" group-title="Test;UHD",Loupe 4K (2160p)
+http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8 
+
+#EXTINF:-1 tvg-chno="x""Das Erste HD" tvg-id="ARD.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png" group-title="ÖR",Das Erste HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://mcdn.daserste.de/daserste/dash/manifest.mpd
+#EXTINF:-1 tvg-chno="x""ZDF HD" tvg-id="ZDF.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png" group-title="ÖR",ZDF HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://zdf-dash-15.akamaized.net/dash/live/2016508/de/manifest.mpd
+#EXTINF:-1 tvg-chno="x""NDR MV HD" tvg-id="ndrmv.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png" group-title="ÖR-Regional",NDR MV HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://mcdn.ndr.de/ndr/dash/ndr_hbbtv/ndr_hbbtv_mv/ndr_hbbtv_mv.mpd
+#EXTINF:-1 tvg-chno="x""MDR Sachsen-Anhalt HD" tvg-id="MDRSachsen.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png" group-title="ÖR-Regional",MDR Sachsen-Anhalt HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://mdrtvsadash.akamaized.net/dash/live/2094116/mdrtvsa/dash.mpd
+#EXTINF:-1 tvg-chno="x""rbb Berlin HD" tvg-id="rbbBerlin.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png" group-title="ÖR-Regional",rbb Berlin HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://rbb-dash-berlin.akamaized.net/dash/live/2017826/rbb_berlin/manifest.mpd
+#EXTINF:-1 tvg-chno="x""one HD" tvg-id="One.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png" group-title="Spartenprogramm",one HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://mcdn.one.ard.de/ardone/dash/manifest.mpd
+#EXTINF:-1 tvg-chno="x""arte" tvg-id="ARTE.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png" group-title="Regional",arte
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://arteliveext.akamaized.net/dash/live/2031004/artelive_de/dash.mpd
+#EXTINF:-1 tvg-chno="x""phoenix HD" tvg-id="phoenix.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png" group-title="Spartenprogramm",phoenix
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://zdf-dash-19.akamaized.net/dash/live/2016512/de/manifest.mpd
+#EXTINF:-1 tvg-chno="x""3sat" tvg-id="83545" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png" group-title="ÖR",3sat
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://zdf-dash-18.akamaized.net/dash/live/2016511/dach/manifest.mpd
+#EXTINF:-1 tvg-chno="x""ZDFneo HD" tvg-id="ZDFneo.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png" group-title="ÖR-Spartenprogramm",ZDFneo HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://zdf-dash-16.akamaized.net/dash/live/2016509/de/manifest.mpd
+#EXTINF:-1 tvg-chno="x""ZDFinfo HD" tvg-id="ZDFinfo.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png" group-title="ÖR-Spartenprogramm",ZDFinfo HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://zdf-dash-17.akamaized.net/dash/live/2016510/de/manifest.mpd
+#EXTINF:-1 tvg-chno="x""KiKA" tvg-id="Kika.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png" group-title="Kinder / Jugend",KiKA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://kikageodash.akamaized.net/dash/live/2022694/livetvkika_de/manifest.mpd
+#EXTINF:-1 tvg-chno="x""SR Fernsehen HD" tvg-id="SRFernsehen.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png" group-title="ÖR-Regional",SR Fernsehen HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://swrsrfs-dash.akamaized.net/dash/live/2018687/srfsgeo/dash.mpd
+#EXTINF:-1 tvg-chno="x""hr-fernsehen" tvg-id="HR.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png" group-title="ÖR-Regional",hr-fernsehen
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://hrdash.akamaized.net/dash/live/2024543/hrdash/manifest.mpd
+#EXTINF:-1 tvg-chno="x""BR Fernsehen Süd HD" tvg-id="BR.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png" group-title="ÖR-Regional",BR Fernsehen Süd HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://bfrsueddash.akamaized.net/dash/live/2016970/bfs_sued_de/dvbt2/manifest.mpd
+#EXTINF:-1 tvg-chno="x""WDR HD" tvg-id="WDR.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png" group-title="ÖR-Regional",WDR HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://wdrfs247.akamaized.net/dash/live/2016702/wdrfs247_geo/dash.mpd
+#EXTINF:-1 tvg-chno="x""ARD-alpha" tvg-id="ARD-alpha.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png" group-title="ÖR-Spartenprogramm",ARD-alpha
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://ardalphadash.akamaized.net/dash/live/2016972/ard_alpha/dvbt2/manifest.mpd
+#EXTINF:-1 tvg-chno="x""tagesschau24" tvg-id="tagesschau24.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png" group-title="ÖR-Spartenprogramm",tagesschau24
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://tagesschau.akamaized.net/dash/live/2020098/tagesschau/tagesschau_3/tagesschau_3.mpd
+
+#EXTINF:-1 tvg-id="euronews.de" tvg-name="EuronewsDE.nws" tvg-type="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/euronews.png" group-title="Nachrichten",Euronews
+https://64ae17e353a144d38d09cb7530008fb7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_EuroNewsLive/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="x""BILD HD" tvg-id="Bild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/BILD_TV_Logo_August_2021.png/544px-BILD_TV_Logo_August_2021.png" group-title="Nachrichten;Dokumentationen",BILD HD
+https://bild.personalstream.tv/v1/master.m3u8
+
+#EXTINF:-1 tvg-chno="x""DAZN Fast (DE)" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/dazn-fast.png" group-title="Sport",DAZN Fast
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznfast-lgde/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="x""DAZN Rise (DE)" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/dazn-rise.png" group-title="Sport",DAZN Rise
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznrise-lgde/playlist.m3u8
+
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1734879,RESOLUTION=1920x1080,FRAME-RATE=23.974,CODECS="avc1.640028,mp4a.40.2",VIDEO-RANGE=SDR
+index-v1-a1.m3u8?t=h-fsYDXD1Yn2vxAFsLx07vI69vVFVXhmU1WNKXAJxlE&s=1712591682&e=21600&f=849445&srv=srv16&i=89.245&sp=0&p1=srv16&p2=srv16
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=80470,RESOLUTION=1920x1080,CODECS="avc1.640028",URI="iframes-v1-a1.m3u8?t=h-fsYDXD1Yn2vxAFsLx07vI69vVFVXhmU1WNKXAJxlE&s=1712591682&e=21600&f=849445&srv=srv16&i=89.245&sp=0&p1=srv16&p2=srv16",VIDEO-RANGE=SDR
+    
+ #EXTINF:-1 tvg-id="" tvg-name="80s80s - Maxis" tvg-shift="" radio="true" tvg-logo="" group-title="80ger",80s80s - Maxis
+ https://streams.80s80s.de/maxis/mp3-192/streams.80s80s.de
+ #EXTINF:-1 tvg-id="" tvg-name="80s80s - Bowie" tvg-shift="" radio="true" tvg-logo="" group-title="80ger",80s80s - Bowie
+ https://streams.80s80s.de/bowie/mp3-192/streams.80s80s.de 
+ #EXTINF:-1 tvg-id="" tvg-name="80s80s - Christmas" tvg-shift="" radio="true" tvg-logo="" group-title="80ger",80s80s - Christmas
+ https://streams.80s80s.de/christmas/mp3-192/streams.80s80s.de
+ #EXTINF:-1 tvg-id="" tvg-name="80s80s - Depeche Mode (Radio For The Masses)" tvg-shift="" radio="true" tvg-logo="" group-title="80ger",80s80s - Depeche Mode (Radio For The Masses)
+   
+ #EXTINF:-1 tvg-id="" tvg-name="80s80s - In the Mix" tvg-shift="" radio="true" tvg-logo="" group-title="80ger",80s80s - In the Mix
+ https://streams.80s80s.de/mix/mp3-192/streams.80s80s.de
+ #EXTINF:-1 tvg-id="" tvg-name="80s80s - Love" tvg-shift="" radio="true" tvg-logo="" group-title="80ger",80s80s - Love
+ https://streams.80s80s.de/love/mp3-192/streams.80s80s.de
+ #EXTINF:-1 tvg-id="" tvg-name="80s80s - Main Stream" tvg-shift="" radio="true" tvg-logo="" group-title="80ger",80s80s - Main Stream
+ https://streams.80s80s.de/web/mp3-192/streams.80s80s.de    
+ #EXTINF:-1 tvg-id="" tvg-name="80s80s - Michael Jackson" tvg-shift="" radio="true" tvg-logo="" group-title="80ger",80s80s - Michael Jackson
+ https://streams.80s80s.de/mj/mp3-192/streams.80s80s.de
+ #EXTINF:-1 tvg-id="" tvg-name="80s80s - NDW" tvg-shift="" radio="true" tvg-logo="" group-title="80ger",80s80s - NDW
+ https://streams.80s80s.de/ndw/mp3-192/streams.80s80s.de
+ #EXTINF:-1 tvg-id="" tvg-name="80s80s - Partyhits" tvg-shift="" radio="true" tvg-logo="" group-title="80ger",80s80s - Partyhits
+ https://streams.80s80s.de/party/mp3-192/streams.80s80s.de
+ #EXTINF:-1 tvg-id="" tvg-name="80s80s - Prince" tvg-shift="" radio="true" tvg-logo="" group-title="80ger",80s80s - Prince
+ https://streams.80s80s.de/100/mp3-192/streams.80s80s.de
+ #EXTINF:-1 tvg-id="" tvg-name="80s80s - Rock" tvg-shift="" radio="true" tvg-logo="" group-title="80ger",80s80s - Rock
+ https://streams.80s80s.de/rock/mp3-192/streams.80s80s.de
+ #EXTINF:-1 tvg-id="" tvg-name="80s80s - Soul" tvg-shift="" radio="true" tvg-logo="" group-title="80ger",80s80s - Soul
+ https://streams.80s80s.de/soul/mp3-192/streams.80s80s.de
+ #EXTINF:-1 tvg-id="" tvg-name="80s80s - Summerhits" tvg-shift="" radio="true" tvg-logo="" group-title="80ger",80s80s - Summerhits
+ https://streams.80s80s.de/summerhits/mp3-192/streams.80s80s.de
+ #EXTINF:-1 tvg-id="" tvg-name="80s80s - Wave" tvg-shift="" radio="true" tvg-logo="" group-title="80ger",80s80s - Wave
+ https://streams.80s80s.de/wave/mp3-192/streams.80s80s.de
+ #EXTINF:-1 tvg-id="" tvg-name="90s90s - Beat" tvg-shift="" radio="true" tvg-logo="" group-title="90ger",90s90s - Beat
+ https://streams.90s90s.de/main/mp3-192/streams.90s90s.de
+ #EXTINF:-1 tvg-id="" tvg-name="90s90s - Boygroup" tvg-shift="" radio="true" tvg-logo="" group-title="90ger",90s90s - Boygroup
+ https://streams.90s90s.de/boygroup/mp3-192/streams.90s90s.de
+ #EXTINF:-1 tvg-id="" tvg-name="90s90s - Dance" tvg-shift="" radio="true" tvg-logo="" group-title="90ger",90s90s - Dance
+ https://streams.90s90s.de/eurodance/mp3-192/streams.90s90s.de
+ #EXTINF:-1 tvg-id="" tvg-name="90s90s - Grunge" tvg-shift="" radio="true" tvg-logo="" group-title="90ger",90s90s - Grunge
+ https://streams.90s90s.de/grunge/mp3-192/streams.90s90s.de
+ #EXTINF:-1 tvg-id="" tvg-name="90s90s - Hits" tvg-shift="" radio="true" tvg-logo="" group-title="90ger",90s90s - Hits
+ https://streams.90s90s.de/pop/mp3-192/streams.90s90s.de
+ #EXTINF:-1 tvg-id="" tvg-name="90s90s - In the mix" tvg-shift="" radio="true" tvg-logo="" group-title="90ger",90s90s - In the mix
+ https://streams.90s90s.de/inthemix/mp3-192/streams.90s90s.de
+ #EXTINF:-1 tvg-id="" tvg-name="90s90s - Lovesongs" tvg-shift="" radio="true" tvg-logo="" group-title="90ger",90s90s - Lovesongs
+ https://streams.90s90s.de/love/mp3-192/streams.90s90s.de
+ #EXTINF:-1 tvg-id="" tvg-name="90s90s - RnB" tvg-shift="" radio="true" tvg-logo="" group-title="90ger",90s90s - RnB
+ https://streams.90s90s.de/rnb/mp3-192/streams.90s90s.de
+ #EXTINF:-1 tvg-id="" tvg-name="90s90s - Summerhits" tvg-shift="" radio="true" tvg-logo="" group-title="90ger",90s90s - Summerhits
+ https://streams.90s90s.de/90s90s-sommerhits/mp3-192/streams.90s90s.de
+ #EXTINF:-1 tvg-id="" tvg-name="90s90s - Techno" tvg-shift="" radio="true" tvg-logo="" group-title="90ger",90s90s - Techno
+ https://streams.90s90s.de/techno/mp3-192/streams.90s90s.de
+ #EXTINF:-1 tvg-id="" tvg-name="90s90s - Xmas" tvg-shift="" radio="true" tvg-logo="" group-title="90ger",90s90s - Xmas
+ https://streams.90s90s.de/xmas/mp3-192/streams.90s90s.de
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="90ger",RADIONAME    
+
+#EXTINF:-1 tvg-chno="5" tvg-name="ATV" tvg-id="ATV.tr" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/atv-wei-f-white.png" group-title="SIMPLITV",ATV* 
+plugin://plugin.video.simplitv/?mode=play&channel=atv
+#EXTINF:-1 tvg-chno="5" tvg-name="PULS 4*" tvg-id="Puls4.at" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/puls4-wei-f-white.png" group-title="SIMPLITV",PULS 4* 
+plugin://plugin.video.simplitv/?mode=play&channel=pu4
+#EXTINF:-1 tvg-chno="5" tvg-name="PULS 24*" tvg-id="???" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/puls24-wei-f-white.png" group-title="SIMPLITV",PULS 24*
+plugin://plugin.video.simplitv/?mode=play&channel=puls24
+#EXTINF:-1 tvg-chno="5" tvg-name="krone.tv*" tvg-id="???" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/kronetv-wei-f-white.png" group-title="SIMPLITV",krone.tv*
+plugin://plugin.video.simplitv/?mode=play&channel=kronetv
+#EXTINF:-1 tvg-chno="5" tvg-name="Hitradio Ö3*" tvg-id="???" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/oe3-sw.png" group-title="SIMPLITV",Hitradio Ö3*
+plugin://plugin.video.simplitv/?mode=play&channel=oe3-visual-radio-hd
+#EXTINF:-1 tvg-chno="5" tvg-name="bibelTV HD*" tvg-id="???" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/bibeltv-sw.png" group-title="SIMPLITV",bibelTV HD*
+plugin://plugin.video.simplitv/?mode=play&channel=bibeltv-hd
+
+
+#EXTINF:-1 tvg-chno="5" tvg-name="Handball EM ARD Sportschau" tvg-id="" tvg-shift="0" radio="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sportschau.png" group-title="Sport",Handball EM ARD Sportschau
 https://wdrevent.akamaized.net/hls/live/2020359/wdr_msl4_wdrevent9/master3328.m3u8
-
-
-#EXTINF:-1 tvg-name="SRF 1 HD ³" tvg-id="SRF1.ch" tvg-type="live" group-title="ORF und SRF" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-1.png" group-title="Sendungstipp",SRF 1 HD ³
-http://185.236.229.31:9981/play/a00h 
-
-#EXTINF:-1 tvg-chno="5" tvg-name="Eurosport 1 HD*" tvg-id="Eurosport1.de" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/eurosport-1-hd-wei-f-white.png" group-title="SIMPLITV",Eurosport 1 HD
-plugin://plugin.video.simplitv/?mode=play&channel=eurosport1austriahd
+#EXTINF:-1 tvg-chno="5" tvg-name="Sportschau 7" tvg-id="" tvg-shift="0" radio="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sportschau.png" group-title="Sport",Sportschau 7*
+https://wdrevent.akamaized.net/hls/live/2020357/wdr_msl4_wdrevent7/master3328.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-name="Sportschau 8" tvg-id="" tvg-shift="0" radio="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sportschau.png" group-title="Sport",Sportschau 8
+https://wdrevent.akamaized.net/hls/live/2020358/wdr_msl4_wdrevent8/master3328.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-name="ARD Event 2 HD" tvg-id="" tvg-shift="0" radio="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sportschau.png" group-title="Sport",ARD Event 2 HD*
+https://ardevent2.akamaized.net/hls/live/681512/ardevent2_geo/master.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-name="Handball EM ZDF Sportstudio 1" tvg-id="" tvg-shift="0" radio="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sportstudio.png" group-title="Sport",Handball EM ZDF Sportstudio
+https://zdf-hls-05.akamaized.net/hls/live/2016300/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-name="Handball EM ZDF Sportstudio 2" tvg-id="" tvg-shift="0" radio="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sportstudio.png" group-title="Sport",Handball EM ZDF Sportstudio
+https://zdf-hls-03.akamaized.net/hls/live/2016213/de/veryhigh/master.m3u8		
