@@ -25,8 +25,14 @@ https://s6.hopslan.com/orf3/tracks-v1a1/mono.m3u8?token=4e321369230a8b6eea5339ba
 #EXTINF:-1 tvg-chno="x""ORF Sport+ HD ¹" tvg-id="ORF Sport +" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-sport-+.png" group-title="ORF und SRF;Sport",ORF Sport+ HD ¹
 http://80.252.37.194:5000/udp/233.233.233.2:12000                  
        
+#EXTINF:-1 tvg-chno="x""SRF 1 HD ¹" tvg-id="SRF1.ch" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-1.png" group-title="ORF und SRF",SRF 1 ¹
+http://176.10.117.3:5000/play/a011/index.m3u8                 
+#EXTINF:-1 tvg-chno="x""SRF 2 HD ¹" tvg-id="SRF2.ch" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-zwei.png" group-title="ORF und SRF",SRF 2 ¹
+http://176.10.117.3:5000/play/a012/index.m3u8
 #EXTINF:-1 tvg-chno="x""SRF info HD ²" tvg-id="SRFinfo.ch" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-info.png" group-title="ORF und SRF",SRF info HD ²
-http://154.54.220.67:34780/play/a05d            
+http://154.54.220.67:34780/play/a05d
+#EXTINF:-1 tvg-chno="x""SRF info HD ³" tvg-id="SRFinfo.ch" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-info.png" group-title="ORF und SRF",SRF info HD ³
+http://176.10.117.3:5000/play/a008/index.m3u8
 #EXTINF:-1 tvg-chno="x""Nasa UHD" tvg-id="" tvg-type="live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logo-NasaTV-UHD.png" group-title="Test;UHD",Nasa UHD
 http://154.54.220.67:34780/play/a02q
 #EXTINF:-1 tvg-chno="x""Loupe 4K (2160p)" tvg-id="" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/Loupe.png" group-title="Test;UHD",Loupe 4K (2160p)
