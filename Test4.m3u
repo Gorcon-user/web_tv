@@ -201,4 +201,17 @@ https://ardevent2.akamaized.net/hls/live/681512/ardevent2_geo/master.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-name="Handball EM ZDF Sportstudio 1" tvg-id="" tvg-shift="0" radio="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sportstudio.png" group-title="Sport",Handball EM ZDF Sportstudio
 https://zdf-hls-05.akamaized.net/hls/live/2016300/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-name="Handball EM ZDF Sportstudio 2" tvg-id="" tvg-shift="0" radio="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sportstudio.png" group-title="Sport",Handball EM ZDF Sportstudio
-https://zdf-hls-03.akamaized.net/hls/live/2016213/de/veryhigh/master.m3u8		
+https://zdf-hls-03.akamaized.net/hls/live/2016213/de/veryhigh/master.m3u8	
+
+#EXTINF:-1, tvg-logo="https://s3-zurich.s3.netstream.cloud/tv-resources/images/CHANNEL_LOGO/1009_DARK_348x348.webp", SRF 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://cachehsi1a.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
+#EXTINF:-1,SRF1HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://cachehsi1a.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
+#EXTINF:-1,SRFinfoHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://cachehsi1a.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
