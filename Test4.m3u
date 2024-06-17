@@ -187,7 +187,7 @@ http://tagesschau.akamaized.net/dash/live/2020098/tagesschau/tagesschau_3/tagess
 #EXTINF:-1 tvg-id="euronews.de" tvg-name="EuronewsDE.nws" tvg-type="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/euronews.png" group-title="Nachrichten",Euronews
 https://64ae17e353a144d38d09cb7530008fb7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_EuroNewsLive/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="x""BILD HD" tvg-id="Bild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/BILD_TV_Logo_August_2021.png/544px-BILD_TV_Logo_August_2021.png" group-title="Nachrichten;Dokumentationen",BILD HD
+#EXTINF:-1 tvg-chno="x""BILD HD" tvg-id="Bild.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/BILD_TV_Logo_August_2021.png/544px-BILD_TV_Logo_August_2021.png" group-title="Nachrichten;Dokumentationen",BILD HD
 https://bild.personalstream.tv/v1/master.m3u8
 
 #EXTINF:-1 tvg-chno="x""DAZN Fast (DE)" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/dazn-fast.png" group-title="Sport",DAZN Fast
