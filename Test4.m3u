@@ -68,19 +68,14 @@ http://mytgoldiptv.xyz:8080/sinan9269166/AaP2hXEvmBFj/110908
 https://cachehsi1a.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
 
 #EXTINF:-1 tvg-chno="x" "eurosport 2 HD ¹" tvg-id="Eurosport2Germany.de" tvg-type="live" tvg-logo="https://banner2.cleanpng.com/20180608/fgf/kisspng-eurosport-2-television-channel-logo-mediaset-premium-5b1b0d3d419774.6426579915284995172687.jpg" group-title="Sport",eurosport 2 HD ¹
-http://176.10.117.3:5000/play/a00g/index.m3u8
+http://mytgoldiptv.xyz:8080/sinan9269166/AaP2hXEvmBFj/110909
 #EXTINF:-1 tvg-chno="x" "eurosport 2 HD ²" tvg-id="Eurosport2Germany.de" tvg-type="live" tvg-logo="https://banner2.cleanpng.com/20180608/fgf/kisspng-eurosport-2-television-channel-logo-mediaset-premium-5b1b0d3d419774.6426579915284995172687.jpg" group-title="Sport",eurosport 2 HD ¹
-http://mytgoldiptv.xyz:8080/sinan9269166/AaP2hXEvmBFj/110907
+http://mytgoldiptv.xyz:8080/sinan9269166/AaP2hXEvmBFj/110910
 
 #EXTINF:-1 tvg-chno="x" "sport1" tvg-id="Sport1.de" tvg-type="live" tvg-logo="https://www.netplus.ch/media/image/0/square/tv-sport-1-ch.jpg.webp" group-title="Sport",sport1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cachehsi1a.netplus.ch/live/eds/sport1/browser-dash/sport1.mpd
-
-#EXTINF:-1 tvg-chno="x" "Welt" tvg-id="Welt.de" tvg-type="live" tvg-logo="https://www.netplus.ch/media/image/0/square/welt-tv.jpg.webp" group-title="ORF und SRF",Welt
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cachehsi1a.netplus.ch/live/eds/n24/browser-dash/n24.mpd
 
 #EXTINF:-1 tvg-chno="x" "bluezoom*" tvg-id="bluezoom.ch" tvg-type="live" tvg-logo="https://www.netplus.ch/media/image/0/square/blue-zoom-d.jpg.webp" group-title="ORF und SRF",bluezoom*
 #KODIPROP:inputstreamaddon=inputstream.adaptive
