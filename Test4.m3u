@@ -5,7 +5,7 @@ plugin://plugin.video.simplitv/?mode=play&channel=orf1
 plugin://plugin.video.simplitv/?mode=play&channel=orf2
 #EXTINF:-1 tvg-chno="3" tvg-name="ORF III*" tvg-id="ORF3.at" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/orf3-hd-wei-f-white.png" group-title="SIMPLITV",ORF III
 plugin://plugin.video.simplitv/?mode=play&channel=orf-iii
-#EXTINF:-1 tvg-chno="4" tvg-name="ORF Sport+*" tvg-id="ORF Sport +" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/orf-sport-plus-hd-wei-f-white.png" group-title="SIMPLITV",ORF Sport+
+#EXTINF:-1 tvg-chno="4" tvg-name="ORF Sport+*" tvg-id="ORF Sport +" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/orf-sport-plus-hd-wei-f-white.png" group-title="SIMPLITV;Sport",ORF Sport+
 plugin://plugin.video.simplitv/?mode=play&channel=orf-sport-plus
 #EXTINF:-1 tvg-chno="5" tvg-name="ServusTV AT*" tvg-id="ServusHD.ch" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/servustv-hd-wei-f-white.png" group-title="SIMPLITV",ServusTV AT
 plugin://plugin.video.simplitv/?mode=play&channel=servustv-austria
@@ -14,34 +14,21 @@ plugin://plugin.video.simplitv/?mode=play&channel=servustv-austria
 http://176.10.117.3:5000/play/a013/index.m3u8
 #EXTINF:-1 tvg-chno="x""ORF 1 HD ³" tvg-id="ORF1.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png" group-title="ORF und SRF",ORF 1 HD ³
 http://195.211.27.149:8887/8271/index.m3u8?token=test
-#EXTINF:-1 tvg-chno="x""ORF 1 HD ⁴" tvg-id="ORF1.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png" group-title="ORF und SRF",ORF 1 HD ⁴
-http://154.58.202.194:8000/play/a0bi/index.m3u8
-#EXTINF:-1 tvg-chno="x""ORF 1" tvg-id="ORF1.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png" group-title="ORF und SRF",ORF 1
-http://154.58.202.194:8000/play/a0dl/index.m3u8
+
 #EXTINF:-1 tvg-chno="x""ORF 1* ²" tvg-id="ORF1.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png" group-title="ORF und SRF",ORF 1*  ²
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cachehsi1a.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
-#EXTINF:-1 tvg-chno="x""ORF 2 HD ²" tvg-id="ORF2.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/ordf-2.png"  group-title="ORF und SRF",ORF 2 HD ²
-http://154.58.202.194:8000/play/a0b0/index.m3u8
-#EXTINF:-1 tvg-chno="x""ORF 2 HD ³" tvg-id="ORF2.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/ordf-2.png"  group-title="ORF und SRF",ORF 2 HD ²
-http://154.58.202.194:8000/play/a0dm/index.m3u8
+
 #EXTINF:-1 tvg-chno="x""ORF 2 HD ⁴" tvg-id="ORF2.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/ordf-2.png"  group-title="ORF und SRF",ORF 2 HD ⁴
-http://176.10.117.3:5000/play/a014/index.m3u8
+http://176.10.117.3:5000/play/a014/index.m3u
 #EXTINF:-1 tvg-chno="x""ORF 2 HD* ⁵" tvg-id="ORF2.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/ordf-2.png"  group-title="ORF und SRF",ORF 2 HD* ⁵
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cachehsi1a.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
 #EXTINF:-1 tvg-chno="x""ORF III HD ²" tvg-id="ORF3.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-III.png" group-title="ORF und SRF",ORF III HD ²
 http://176.10.117.3:5000/play/a01f/index.m3u8
-#EXTINF:-1 tvg-chno="x""ORF III HD ³" tvg-id="ORF3.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-III.png" group-title="ORF und SRF",ORF III HD ³
-http://154.58.202.194:8000/play/a0b6/index.m3u8
-#EXTINF:-1 tvg-chno="x""ORF Sport+ HD ¹" tvg-id="ORF Sport +" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-sport-+.png" group-title="ORF und SRF;Sport",ORF Sport+ HD ¹
-http://154.58.202.194:8000/play/a0b7/index.m3u8                  
-#EXTINF:-1 tvg-chno="x""ORF Sport+ HD ²" tvg-id="ORF Sport +" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-sport-+.png" group-title="ORF und SRF;Sport",ORF Sport+ HD ²
-http://pnl1.abtv.pro:80/0ymbnlu4Ro/BvEONeZYj1/30366    
-#EXTINF:-1 tvg-chno="5" tvg-name="ServusTV AT ²" tvg-id="ServusHD.ch" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/servustv-hd-wei-f-white.png" group-title="SIMPLITV",ServusTV AT ²
-http://154.58.202.194:8000/play/a0bk/index.m3u8
+
 #EXTINF:-1 tvg-chno="5" tvg-name="ServusTV AT ³" tvg-id="ServusHD.ch" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/servustv-hd-wei-f-white.png" group-title="SIMPLITV",ServusTV AT ³
 http://176.10.117.3:5000/play/a004/index.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-name="ServusTV AT* ⁴" tvg-id="ServusHD.ch" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/servustv-hd-wei-f-white.png" group-title="SIMPLITV",ServusTV AT* ⁴
@@ -61,7 +48,7 @@ http://176.10.117.3:5000/play/a012/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cachehsi1a.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
 #EXTINF:-1 tvg-chno="x""SRF info HD ¹" tvg-id="SRFinfo.ch" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-info.png" group-title="ORF und SRF",SRF info HD ¹
-http://154.54.220.67:34780/play/a05d
+
 #EXTINF:-1 tvg-chno="x""SRF info HD ²" tvg-id="SRFinfo.ch" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-info.png" group-title="ORF und SRF",SRF info HD ²
 http://176.10.117.3:5000/play/a008/index.m3u8
 #EXTINF:-1 tvg-chno="x""SRF info HD* ³" tvg-id="SRFinfo.ch" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-info.png" group-title="ORF und SRF",SRF info HD* ³
@@ -69,44 +56,53 @@ http://176.10.117.3:5000/play/a008/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cachehsi1a.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
 
-#EXTINF:-1 tvg-chno="x" "eurosport ¹" tvg-id="124688" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-info.png" group-title="ORF und SRF",eurosport ¹
+#EXTINF:-1 tvg-chno="x" "eurosport ¹" tvg-id="Eurosport.1.de" tvg-type="live" tvg-logo="https://www.netplus.ch/media/image/0/square/tv-logo-eurosport-1-2022.jpg.webp" group-title="Sport",eurosport ¹
 http://176.10.117.3:5000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-chno="x" "eurosport HD ²" tvg-id="124688" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-info.png" group-title="ORF und SRF",eurosport HD ²
-http://154.58.202.194:8000/play/a094/index.m3u8
-#EXTINF:-1 tvg-chno="x" "eurosport HD ³" tvg-id="124688" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-info.png" group-title="ORF und SRF",eurosport HD ³
-http://154.58.202.194:8000/play/a0ml/index.m3u8
-#EXTINF:-1 tvg-chno="x" "eurosport* ⁴" tvg-id="124688" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-info.png" group-title="ORF und SRF",eurosport* ⁴
+#EXTINF:-1 tvg-chno="x" "eurosport HD ²" tvg-id="Eurosport.1.de" tvg-type="live" tvg-logo="https://www.netplus.ch/media/image/0/square/tv-logo-eurosport-1-2022.jpg.webp" group-title="Sport",eurosport HD ²
+http://mytgoldiptv.xyz:8080/sinan9269166/AaP2hXEvmBFj/110907
+#EXTINF:-1 tvg-chno="x" "eurosport HD ³" tvg-id="Eurosport.1.de" tvg-type="live" tvg-logo="https://www.netplus.ch/media/image/0/square/tv-logo-eurosport-1-2022.jpg.webp" group-title="Sport",eurosport HD ³
+http://mytgoldiptv.xyz:8080/sinan9269166/AaP2hXEvmBFj/110908
+#EXTINF:-1 tvg-chno="x" "eurosport* ⁴" tvg-id="Eurosport.1.de" tvg-type="live" tvg-logo="https://www.netplus.ch/media/image/0/square/tv-logo-eurosport-1-2022.jpg.webp" group-title="Sport",eurosport* ⁴
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cachehsi1a.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
 
-#EXTINF:-1 tvg-chno="x" "sport1" tvg-id="98423" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-info.png" group-title="ORF und SRF",sport1
+#EXTINF:-1 tvg-chno="x" "eurosport 2 HD ¹" tvg-id="Eurosport2Germany.de" tvg-type="live" tvg-logo="https://banner2.cleanpng.com/20180608/fgf/kisspng-eurosport-2-television-channel-logo-mediaset-premium-5b1b0d3d419774.6426579915284995172687.jpg" group-title="Sport",eurosport 2 HD ¹
+http://176.10.117.3:5000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-chno="x" "eurosport 2 HD ²" tvg-id="Eurosport2Germany.de" tvg-type="live" tvg-logo="https://banner2.cleanpng.com/20180608/fgf/kisspng-eurosport-2-television-channel-logo-mediaset-premium-5b1b0d3d419774.6426579915284995172687.jpg" group-title="Sport",eurosport 2 HD ¹
+http://mytgoldiptv.xyz:8080/sinan9269166/AaP2hXEvmBFj/110907
+
+#EXTINF:-1 tvg-chno="x" "sport1" tvg-id="Sport1.de" tvg-type="live" tvg-logo="https://www.netplus.ch/media/image/0/square/tv-sport-1-ch.jpg.webp" group-title="Sport",sport1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cachehsi1a.netplus.ch/live/eds/sport1/browser-dash/sport1.mpd
 
-#EXTINF:-1 tvg-chno="x" "Welt" tvg-id="83621" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-info.png" group-title="ORF und SRF",Welt
+#EXTINF:-1 tvg-chno="x" "Welt" tvg-id="Welt.de" tvg-type="live" tvg-logo="https://www.netplus.ch/media/image/0/square/welt-tv.jpg.webp" group-title="ORF und SRF",Welt
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cachehsi1a.netplus.ch/live/eds/n24/browser-dash/n24.mpd
 
-#EXTINF:-1 tvg-chno="x" "bluezoom*" tvg-id="116179" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-info.png" group-title="ORF und SRF",bluezoom*
+#EXTINF:-1 tvg-chno="x" "bluezoom*" tvg-id="bluezoom.ch" tvg-type="live" tvg-logo="https://www.netplus.ch/media/image/0/square/blue-zoom-d.jpg.webp" group-title="ORF und SRF",bluezoom*
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cachehsi1a.netplus.ch/live/eds/bluezoomde/browser-dash/bluezoomde.mpd
 
+
+
+
+
 #EXTINF:-1 tvg-chno="x" "Nasa UHD" tvg-id="" tvg-type="live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logo-NasaTV-UHD.png" group-title="Test;UHD",Nasa UHD
-http://154.54.220.67:34780/play/a02q
+
 #EXTINF:-1 tvg-chno="x" "Loupe 4K (2160p)" tvg-id="" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/Loupe.png" group-title="Test;UHD",Loupe 4K (2160p)
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="x" "RTL UHD" tvg-id="114029" tvg-type="live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logo-NasaTV-UHD.png" group-title="Test;UHD",RTL UHD
-http://154.54.220.67:34780/play/a02q 
+ 
 
-#EXTINF:-1 tvg-chno="x" "RTL*" tvg-id="83641" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-info.png" group-title="Private",RTL*
+#EXTINF:-1 tvg-chno="x" "RTL*" tvg-id="RTLGermany.de" tvg-type="live" tvg-logo="https://www.netplus.ch/media/image/0/square/rtl.jpg.webp" group-title="Private",RTL*
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cachehsi1a.netplus.ch/live/eds/rtl/browser-dash/rtl.mpd
-#EXTINF:-1 tvg-chno="x" "atv*" tvg-id="88174" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-info.png" group-title="ORF und SRF",atv*
+#EXTINF:-1 tvg-chno="x" "atv*" tvg-id="ATV.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/ATV.png" group-title="ORF und SRF",atv*
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cachehsi1a.netplus.ch/live/eds/atv/browser-dash/atv.mpd
@@ -114,7 +110,7 @@ https://cachehsi1a.netplus.ch/live/eds/atv/browser-dash/atv.mpd
 #EXTINF:-1 tvg-chno="x""Das Erste HD" tvg-id="ARD.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png" group-title="ÖR",Das Erste HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-http://mcdn.daserste.de/daserste/dash/manifest.mpd
+https://daserste-live.ard-mcdn.de/daserste/replay/dash/de/manifest.mpd
 #EXTINF:-1 tvg-chno="x""ZDF HD" tvg-id="ZDF.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png" group-title="ÖR",ZDF HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -195,11 +191,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznfast-lgde/playlist.m
 
 #EXTINF:-1 tvg-chno="x""DAZN Rise (DE)" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/dazn-rise.png" group-title="Sport",DAZN Rise
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznrise-lgde/playlist.m3u8
-
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1734879,RESOLUTION=1920x1080,FRAME-RATE=23.974,CODECS="avc1.640028,mp4a.40.2",VIDEO-RANGE=SDR
-index-v1-a1.m3u8?t=h-fsYDXD1Yn2vxAFsLx07vI69vVFVXhmU1WNKXAJxlE&s=1712591682&e=21600&f=849445&srv=srv16&i=89.245&sp=0&p1=srv16&p2=srv16
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=80470,RESOLUTION=1920x1080,CODECS="avc1.640028",URI="iframes-v1-a1.m3u8?t=h-fsYDXD1Yn2vxAFsLx07vI69vVFVXhmU1WNKXAJxlE&s=1712591682&e=21600&f=849445&srv=srv16&i=89.245&sp=0&p1=srv16&p2=srv16",VIDEO-RANGE=SDR
     
  #EXTINF:-1 tvg-id="" tvg-name="80s80s - Maxis" tvg-shift="" radio="true" tvg-logo="" group-title="80ger",80s80s - Maxis
  https://streams.80s80s.de/maxis/mp3-192/streams.80s80s.de
@@ -269,8 +260,7 @@ plugin://plugin.video.simplitv/?mode=play&channel=oe3-visual-radio-hd
 plugin://plugin.video.simplitv/?mode=play&channel=bibeltv-hd
 
 
-#EXTINF:-1 tvg-chno="5" tvg-name="Handball EM ARD Sportschau" tvg-id="" tvg-shift="0" radio="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sportschau.png" group-title="Sport",Handball EM ARD Sportschau
-https://wdrevent.akamaized.net/hls/live/2020359/wdr_msl4_wdrevent9/master3328.m3u8
+
 #EXTINF:-1 tvg-chno="5" tvg-name="Sportschau 7" tvg-id="" tvg-shift="0" radio="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sportschau.png" group-title="Sport",Sportschau 7*
 https://wdrevent.akamaized.net/hls/live/2020357/wdr_msl4_wdrevent7/master3328.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-name="Sportschau 8" tvg-id="" tvg-shift="0" radio="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sportschau.png" group-title="Sport",Sportschau 8
@@ -281,4 +271,3 @@ https://ardevent2.akamaized.net/hls/live/681512/ardevent2_geo/master.m3u8
 https://zdf-hls-05.akamaized.net/hls/live/2016300/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-name="Handball EM ZDF Sportstudio 2" tvg-id="" tvg-shift="0" radio="" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/sportstudio.png" group-title="Sport",Handball EM ZDF Sportstudio
 https://zdf-hls-03.akamaized.net/hls/live/2016213/de/veryhigh/master.m3u8	
-
