@@ -82,9 +82,8 @@ https://cachehsi1a.netplus.ch/live/eds/sport1/browser-dash/sport1.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cachehsi1a.netplus.ch/live/eds/bluezoomde/browser-dash/bluezoomde.mpd
 
-
-
-
+#EXTINF:-1 tvg-chno="5" tvg-name="DEFA TV" tvg-id="DEFA.TV.de" tvg-shift="-2" radio="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD2700001ID_20231115T012104SQUARE.png_20231115012104.png" group-title="Test",DEFA TV
+https://jmp2.uk/SamsungTVPlus/DEBD2700001ID.m3u8
 
 #EXTINF:-1 tvg-chno="x" "Nasa UHD" tvg-id="" tvg-type="live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logo-NasaTV-UHD.png" group-title="Test;UHD",Nasa UHD
 
