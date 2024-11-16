@@ -11,7 +11,7 @@ plugin://plugin.video.simplitv/?mode=play&channel=orf-sport-plus
 plugin://plugin.video.simplitv/?mode=play&channel=servustv-austria
 
 #EXTINF:-1 tvg-chno="x""ORF 1 HD ²" tvg-id="ORF1.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png" group-title="ORF und SRF",ORF 1 HD ²
-http://176.10.117.3:5000/play/a013/index.m3u8
+
 
 
 #EXTINF:-1 tvg-chno="x""ORF 1* ²" tvg-id="ORF1.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png" group-title="ORF und SRF",ORF 1*  ²
@@ -53,21 +53,21 @@ http://176.10.117.3:5000/play/a008/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cachehsi1a.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
 
-#EXTINF:-1 tvg-chno="x" "eurosport 1¹" tvg-id="Eurosport.1.de" tvg-type="live" tvg-logo="https://www.netplus.ch/media/image/0/square/tv-logo-eurosport-1-2022.jpg.webp" group-title="Sport",eurosport ¹
-http://176.10.117.3:5000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-chno="x" "eurosport 1²" tvg-id="Eurosport.1.de" tvg-type="live" tvg-logo="https://www.netplus.ch/media/image/0/square/tv-logo-eurosport-1-2022.jpg.webp" group-title="Sport",eurosport HD ²
+
+#EXTINF:-1 tvg-id="Eurosport.1.de" tvg-chno="x" "eurosport 1¹"  tvg-type="live" tvg-logo="https://www.netplus.ch/media/image/0/square/tv-logo-eurosport-1-2022.jpg.webp" group-title="Sport",EUROSPORT 1 HD (1)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cachehsi1a.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
-
-#EXTINF:-1 tvg-id="Eurosport.1.de" tvg-name="EUROSPORT 1 HD" tvg-logo="https://files.app.simplitv.at/files/icons-wei/eurosport-1-hd-wei-f-white.png" group-title="Sport",EUROSPORT 1 HD
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:AE:8A:38&stream=186655&extension=ts
-#EXTINF:-1 tvg-id="Eurosport.1.de" tvg-name="EUROSPORT 1 HD+" tvg-logo="https://files.app.simplitv.at/files/icons-wei/eurosport-1-hd-wei-f-white.png" group-title="Sport",EUROSPORT 1 HD+
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:AE:8A:38&stream=2933&extension=ts
-#EXTINF:-1 tvg-id="Eurosport2Germany.de" tvg-name="EUROSPORT 2 HD" tvg-logo="https://www.logotypes101.com/logos/473/D48A2107C19288B28A5A65D4232FCF16/eurosport_2.png" group-title="Sport",EUROSPORT 2 HD
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:AE:8A:38&stream=27153&extension=ts
-#EXTINF:-1 tvg-id="Eurosport2Germany.de" tvg-name="EUROSPORT 2 HD+" tvg-logo="https://banner2.cleanpng.com/20180608/fgf/kisspng-eurosport-2-television-channel-logo-mediaset-premium-5b1b0d3d419774.6426579915284995172687.jpg" group-title="Sport",EUROSPORT 2 HD+
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:AE:8A:38&stream=27154&extension=ts
+#EXTINF:-1 tvg-id="Eurosport.1.de" tvg-chno="x" "eurosport 1²"  tvg-type="live" tvg-logo="https://www.netplus.ch/media/image/0/square/tv-logo-eurosport-1-2022.jpg.webp" group-title="Sport",EUROSPORT 1 HD (2)
+http://vipliar.top:8080/VIP01113172673146299/424a3feb8a20/99253
+#EXTINF:-1 tvg-id="Eurosport.1.de" tvg-name="EUROSPORT 1 HD" tvg-logo="https://files.app.simplitv.at/files/icons-wei/eurosport-1-hd-wei-f-white.png" group-title="Sport",EUROSPORT 1 HD (3)
+http://vipliar.top:8080/VIP01113172673146299/424a3feb8a20/99254
+#EXTINF:-1 tvg-id="Eurosport.1.de" tvg-name="EUROSPORT 1 HD+" tvg-logo="https://files.app.simplitv.at/files/icons-wei/eurosport-1-hd-wei-f-white.png" group-title="Sport",EUROSPORT 1 HD (4)
+http://vipliar.top:8080/VIP01113172673146299/424a3feb8a20/1404
+#EXTINF:-1 tvg-id="Eurosport2Germany.de" tvg-name="EUROSPORT 2 HD" tvg-logo="https://www.logotypes101.com/logos/473/D48A2107C19288B28A5A65D4232FCF16/eurosport_2.png" group-title="Sport",EUROSPORT 2 HD (1)
+http://vipliar.top:8080/VIP01113172673146299/424a3feb8a20/1405
+#EXTINF:-1 tvg-id="Eurosport2Germany.de" tvg-name="EUROSPORT 2 HD+" tvg-logo="https://www.logotypes101.com/logos/473/D48A2107C19288B28A5A65D4232FCF16/eurosport_2.png" group-title="Sport",EUROSPORT 2 HD (2)
+http://vipliar.top:8080/VIP01113172673146299/424a3feb8a20/1657
 
 #EXTINF:-1 tvg-id="SkySportTennis.de" tvg-name="SKY SPORT TENNIS HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS HD
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E8:C3&stream=482841&extension=ts
